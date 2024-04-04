@@ -1,6 +1,6 @@
 {
  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
- "spider": "https://raw.gitcode.com/zhuge/tv/blobs/973a55c8524c292084bc8ea8e5b0c2285bba177f/ab13.jar",
+ "spider": "./ab13.jar",
 
  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
  

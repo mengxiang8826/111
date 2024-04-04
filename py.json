@@ -51,7 +51,7 @@
  "name": "官源 |🐧影视",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
- "ext": "./js/腾讯.js"
+ "ext": "https://raw.gitcode.com/zhuge/tv/raw/main/js/%E8%85%BE%E8%AE%AF.js"
  },
  {
  "key": "drpy_js_优酷",

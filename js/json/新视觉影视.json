@@ -1,0 +1,39 @@
+{
+  "作者": "邓联钧",
+  "站名": "影视|新视觉",
+  //https://www.5280.fun
+  "主页url":"https://www.80yy3.com",
+  
+  "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+  
+"分类url": "https://www.80yy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;m",
+//https://www.6080yy4.com/vodshow/%7BcateId%7D-%7Barea%7D-%7Bby%7D-%7Bclass%7D-%7Blang%7D-------%7Byear%7D.html
+
+
+  "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+ // "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+  "标题":"title=\"&&\"",
+  "图片":"data-src=\"&&\"",
+  //"副标题": "<div class=\"module-item-text\">&&</div>",
+  "副标题":"class=\"module-item-text\"&&<",
+  
+  "搜索模式": "1",
+  "搜索url": "https://www.80yy3.com/vod-s/{wd}-------------.html",//https://www.80yy3.com/vod-s/%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A52023-------------.html
+  "搜索数组": "module-item-pic\">&&</div>",
+  "搜索图片":"data-src=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "是否开启手动嗅探":"1",
+  "手动嗅探视频链接关键词": ".ts#.hls#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+  
+  //"影片年代": "年份：&&</div>",
+  //"影片地区": "地区：&&</span>",
+  "影片类型": "class=\"video-tag-icon\">&&</span>",
+  "导演": "导演：&&</div>",
+  "主演": "主演：&&</div>",
+  "简介": "vod_content\">&&<a",
+  
+  "线路数组": "data-dropdown-value=\"&&</small>[不包含:夸克]",
+  "线路标题": "<span>&&</span>",
+  
+  "播放数组": "<div class=\"scroll-content\">&&</div>"
+}

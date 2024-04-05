@@ -147,6 +147,13 @@
  "filterable":1,
  "ext": "./json/电影盒子.json"
  },
+{
+ "key": "奈飞",
+ "name": "无广 | 奈飞♥",
+ "type": 3,
+ "api": "./js/lib/drpy2.min.js",
+ "ext": "./js/奈飞中文.js
+ },
   {
  "key": "磁力熊",
  "name": "无广 | 磁力熊♥",

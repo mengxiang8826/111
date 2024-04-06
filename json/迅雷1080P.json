@@ -68,7 +68,7 @@
     "线路列表数组规则": "#nofollow",
     "线路标题": ".bfd919d&&Text",
     "播放列表数组规则": ".bf8243b9&&li",
-    "选集列表数组规则": ".copylabel&&a",
+    "选集列表数组规则": "body&&.baf6e960dd",
     "选集标题链接是否Jsoup写法": "1",
     "选集标题": ".baf6e960dd&&Text",
     "选集链接": ".copylink&&alt",

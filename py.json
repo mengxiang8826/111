@@ -236,14 +236,14 @@
  },
 
  {
- "key": "FREEOK",
- "name": " 无广|FREEOK",
+ "key": "迅雷1080P",
+ "name": " 无广|迅雷1080P",
  "type": 3,
  "api": "csp_XBPQ",
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "ext": "./json/freeok.json"
+ "ext": "./json/迅雷1080P.json"
  },
  {
  "key": "酒客影视",

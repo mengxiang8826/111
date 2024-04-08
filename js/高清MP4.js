@@ -47,6 +47,10 @@ setResult(d);
 	一级:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = [];
+if (MY_CATE !== '1' && MY_CATE !== '2') {
+	let turl = (MY_PAGE === 1)? 'index' : 'index_'+ MY_PAGE;
+	input = HOST + MY_CATE + turl + '.html';
+}			
 let html = request(input);
 let list = pdfa(html, 'div.mainleft ul#post_container li');
 list.forEach(it => {

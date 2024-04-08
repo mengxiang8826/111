@@ -20,13 +20,6 @@ var rule = {
   	class_name: "动作片&科幻片&爱情片&喜剧片&剧情片&惊悚片&战争片&灾难片&罪案片&动画片&综艺&电视剧",
   	class_url: "action&science&love&comedy&story&thriller&war&disaster&crime&cartoon&variety&sitcoms",
 	play_parse:true,
-	play_json:[{
-		re:'*',
-		json:{
-			parse:0,
-			jx:0
-		}
-	}],
 	lazy:'',
 	limit:6,
 	推荐:`js:
@@ -59,7 +52,7 @@ setResult(d);
 // })
 // setResult(d);
 // `,
-一级:'ul .masonry&&li;a&&title;img&&src;.info_date&&Text&&Text;a&&href',
+一级:'body&&.masonry&&li;a&&title;img&&src;.info_date&&Text&&Text;a&&href',
 	二级:{
 		title:"div.article_container h1&&Text",
 		img:"div#post_content img&&src",

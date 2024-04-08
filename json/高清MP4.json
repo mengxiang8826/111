@@ -13,9 +13,9 @@
   "分类名称": "动作片&科幻片&爱情片&喜剧片&剧情片&惊悚片&战争片&灾难片&罪案片&动画片&综艺&电视剧",
   "分类名称替换词": "action&science&love&comedy&story&thriller&war&disaster&crime&cartoon&variety&sitcoms",
   "筛选数据": {},
-  //"分类截取模式": "0",
+  "分类截取模式": "0",
   //"分类列表数组规则": ".masonry||#posts-list&&li||.entry",
-  //"分类片单是否Jsoup写法": "0",
+  "分类片单是否Jsoup写法": "0",
   "数组":"class=\"masonry clearfix&&</ul>",
  
   "标题":"title=\"&&\"",

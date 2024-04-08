@@ -52,7 +52,7 @@ setResult(d);
 // })
 // setResult(d);
 // `,
-一级:'body&&.masonry&&li;a&&title;img&&src;.info_date&&Text&&Text;a&&href',
+一级:'body&&.mainleft&&li;a&&title;img&&src;.info_date&&Text&&Text;.thumbnail a&&href',
 	二级:{
 		title:"div.article_container h1&&Text",
 		img:"div#post_content img&&src",

@@ -143,16 +143,16 @@
  "filterable":1,
  "ext": "./json/尘落影视.json"
  },
- {
- "key": "磁力熊v",
- "name": "影视|磁力熊v",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/磁力熊.json"
- },
+//  {
+//  "key": "磁力熊v",
+//  "name": "影视|磁力熊v",
+//  "type": 3,
+//  "api": "csp_XBPQ",
+//  "searchable":1,
+//  "quickSearch":1,
+//  "filterable":1,
+//  "ext": "./json/磁力熊.json"
+//  },
  
   {
  "key": "电影盒子",

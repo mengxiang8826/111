@@ -1,23 +1,22 @@
 var rule = {
 	title:'MP4电影[磁]',
-	host:'https://domp4.icu/',
-	//https://www.mp4us.icu
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"center&&h1:eq(0)&&a&&href");print(src);HOST=src',
-    //homeUrl: '/',
-	url: '/list/fyclass-fypage.html',
-	//filter_url:'{{fl.class}}',
+	host:'https://www.mp4us.com',
+        homeUrl: '/',
+	url: '/list/fyclass-fypage.html?',
+	filter_url:'{{fl.class}}',
+	filter:{
+	},
 	searchUrl: '/search/**-1.html',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
 	headers:{
-		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
-         	'Cookie':'Hm_lvt_d8c8eecfb13fe991855f511a6e30c3d2=1706441126; richviews_3515=TQ%252B%252FdENcimEw%252BGGNPlAZW6DsjwR%252Bbo7Ho6KfqdmwzzQNlXoYF79kiarZL%252FQGIkl0ie4i0NUgvOx572UfsZZo88gqUlkWLAFSQOCgm5wzUvogxeXr0CllEw3LFMocmRp2k9QFaA3rc4Yjj3YkaL1LDsANH4xKJvQOLxyW8F8wKtye8RABIsY4xWlPBpCReqOCuZ0QNbp2rbgGLfeM4L0NG6zS9QcH2lLSJ32PSy%252Fk99g7SFySEeNJiGRjZxhjx3eH0qKeJH7pGKTQI83dw528mq%252BkWSb9w7%252F5Is0Sxh%252FFy1KcFwELYoFJFO8rRel8%252FIXb9GJEt4f%252BtCO0fSIq0VLnrA%253D%253D; 3515_3048_220.173.10.2=1; mediaKey=%7B%225128%22%3A1%2C%22timer%22%3A1708071331597%7D; beitouviews_3487=rw2v%252Bnrv2VMMpNNktacy0y6kIbQZE%252FOkpJMb%252FHWSrU4RVb0KlujaGWQfRnJuHEHqaDJe8kvnw41GqDdeg45SqYjP8tL3cXZtBbd%252B0uhER93fIii5k%252FCKOjZa1SPIBFaa%252B%252FwRqkWtJOs%252BKoyqJzANb9uF%252B1MDDtDIuSpNN816K1f9gSxskjwqmufYiV6IA4O5EYsnT84lQsPx6zYc9Sm%252BwMGzU10b2hnQjVs7vvFuHIWsEEE4TUHEcQxwZqGiIc6G0rmwL7ekq1RkeQhbURYANFb0bDTMARDa0qJPeWJzKc6m5K8w0Vnm9sotGEieXFEl35EzERGCpnQOF1d6I4txpg%253D%253D; 3487_3049_220.173.10.2=1; Hm_lpvt_d8c8eecfb13fe991855f511a6e30c3d2=1708077607'
+		'User-Agent': 'PC_UA',
+         	'Cookie':''
 	},
 	timeout:5000,
-	//class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
-	//class_url: '1&2&3&4&5&6&7&8&9&10',
-	class_parse: '.nav ul li:gt(0):lt(11);a&&Text;a&&href;.*/(.*?).html',
+	class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
+	class_url: '1&2&3&4&5&6&7&8&9&10',
 	play_parse:true,
 	play_json:[{
 		re:'*',
@@ -27,9 +26,9 @@ var rule = {
 		}
 	}],
 	lazy:'',
-	limit:10,
+	limit:6,
 	推荐:'div.index_update ul li;a&&Text;;b&&Text;a&&href',
-	一级:'div #list_all&&ul li;img.lazy&&alt;img.lazy&&data-original;span.update_time&&Text;a&&href',
+	一级:'div#list_all ul li;img.lazy&&alt;img.lazy&&data-original;span.update_time&&Text;a&&href',
 	二级:{
 		title:"div.article-header h1&&Text",
 		img:"div.article-header div.pic img&&src",

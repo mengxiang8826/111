@@ -127,6 +127,16 @@
  "ext": "./json/TVB云播.json"
  },
  {
+ "key": "高清MP4",
+ "name": "无广 | 高清MP4",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext": "./json/高清MP4.json"
+ },
+ {
  "key": "尘落影视",
  "name": "无广 | 尘落影视",
  "type": 3,

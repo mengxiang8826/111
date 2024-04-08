@@ -15,8 +15,10 @@ var rule = {
          	'Cookie':''
 	},
 	timeout:5000,
-	class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
-	class_url: '1&2&3&4&5&6&7&8&9&10',
+	 class_parse: 'ul .nav&&li:gt(1);a&&Text;a&&href;.*/(.*?).html',
+	 //<ul class="nav navbar-nav">
+	//class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
+	//class_url: '1&2&3&4&5&6&7&8&9&10',
 	play_parse:true,
 	play_json:[{
 		re:'*',

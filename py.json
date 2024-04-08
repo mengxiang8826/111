@@ -221,11 +221,11 @@
  "ext": "./js/两个BT.js"
  },
     {
- "key": "555",
- "name": "影视 | 555[js]",
+ "key": "B站影视",
+ "name": "影视 | B站影视",
  "type": 3,
  "api": "./drpy2.min.js",
- "ext": "./js/555影视.js"
+ "ext": "./js/B站影视.js"
  },
   {
  "key": "drpy_js_金曼",

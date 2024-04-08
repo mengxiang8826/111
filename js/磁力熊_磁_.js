@@ -30,7 +30,7 @@ var rule = {
 		list.forEach(it => {
 			d.push({
 				title: pdfh(it, 'h2&&Text'),
-				desc: pdfh(it, '.me-auto&&Text') + '分 / ' + pdfh(it, '.small&&Text'),
+				desc: pdfh(it, '.me-auto&&Text') + '分 / ' + pdfh(it, '.small&&Text')+'年',
 				// pic_url: pd(it, '.card-img&&style'), // 只有 影视TV&爱佬版 有图片
 				pic_url: /!'/.test(pd(it, '.card-img&&style'))?pd(it, '.card-img&&style'):pd(it, '.card-img&&style').replaceAll("'",""), // 兼容 影视TV&爱佬版 以外的其它壳子
 				url: pd(it, 'a&&href')

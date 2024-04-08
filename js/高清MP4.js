@@ -2,7 +2,7 @@ var rule = {
 	title:'高清MP4吧',
 	host:'https://www.97tvs.com',
         homeUrl: '/',
-	url: '/fyclass/page/fypage',
+	url: '/fyclass/page/fypage?',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},

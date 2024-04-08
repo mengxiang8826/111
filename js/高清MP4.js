@@ -44,21 +44,22 @@ list.forEach(it => {
 });
 setResult(d);
 	`,
-	一级:`js:
-pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
-let d = [];		
-let html = request(input);
-let list = pdfa(html, 'div.mainleft ul#post_container li');
-list.forEach(it => {
-	d.push({
-		title: pdfh(it, 'div.thumbnail img&&alt'),
-		desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
-		pic_url: pd(it, 'div.thumbnail img&&src'),
-		url: pd(it, 'a&&href')
-	});
-})
-setResult(d);
-`,
+// 	一级:`js:
+// pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
+// let d = [];		
+// let html = request(input);
+// let list = pdfa(html, 'div.mainleft ul#post_container li');
+// list.forEach(it => {
+// 	d.push({
+// 		title: pdfh(it, 'div.thumbnail img&&alt'),
+// 		desc: pdfh(it, 'div.info&&span.info_date&&Text') + ' / ' + pdfh(it, 'div.info&&span.info_category&&Text'),
+// 		pic_url: pd(it, 'div.thumbnail img&&src'),
+// 		url: pd(it, 'a&&href')
+// 	});
+// })
+// setResult(d);
+// `,
+一级:'ul .masonry&&li;a&&title;img&&src;.info_date&&Text&&Text;a&&href',
 	二级:{
 		title:"div.article_container h1&&Text",
 		img:"div#post_content img&&src",

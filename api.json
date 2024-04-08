@@ -131,7 +131,7 @@
  "name": "无广 | 高清MP4",
  "type": 3,
  "api": "./drpy2.min.js",
- "ext": "./js/高清MP4.json"
+ "ext": "./js/高清MP4.js"
  },
  {
  "key": "尘落影视",

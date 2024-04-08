@@ -150,7 +150,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/kuba.js"
  },
- 
+ {
+ "key": "团长资源",
+ "name": "磁力 | 团长资源",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/团长资源.js"
+ },
   {
  "key": "电影盒子",
  "name": "影视 | 电影盒子",

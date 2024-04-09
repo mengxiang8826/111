@@ -1,7 +1,8 @@
 var rule = {
 	title:'MP4电影[磁]',
-	host:'https://www.mp4us.com',
-        homeUrl: '/',
+	host:'https://domp4.icu/',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"center&&h1:eq(0)&&a&&href");print(src);HOST=src',
+    homeUrl: '/',
 	url: '/list/fyclass-fypage.html?',
 	//filter_url:'{{fl.class}}',
 	filter:{

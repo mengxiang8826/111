@@ -33,7 +33,7 @@
  "sites":[
  {
  "key": "drpy_js_奇珍异兽",
- "name": "官源 | ♥爱棋艺",
+ "name": "官源 | 爱奇艺",
  "type": 3,
  "api": "./drpy2.min.js",
 
@@ -41,35 +41,35 @@
  },
  {
  "key": "drpy_js_360影视",
- "name": "官源 | 360[js]",
+ "name": "官源 | 360影视",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/360影视.js"
  },
  {
  "key": "drpy_js_腾云驾雾",
- "name": "官源 |🐧影视",
+ "name": "官源 | 企鹅影视",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/%E8%85%BE%E8%AE%AF.js"
  },
  {
  "key": "drpy_js_优酷",
- "name": "官源 | 油库影视",
+ "name": "官源 | 油裤影视",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/优酷.js"
  },
   {
  "key": "drpy_js_百芒果",
- "name": "官源 | 🥭影视[js]",
+ "name": "官源 | 芒种影视",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/百无芒果.js"
  },
   {
  "key": "drpy_js_6080",
- "name": "无广 | 新视觉♥",
+ "name": "无广 |新视觉影视",
  "type": 3,
  "api": "csp_XBPQ",
  "searchable": 1,
@@ -78,8 +78,8 @@
  "ext": "./json/新视觉影视.json"
   },
   {
- "key": "drpy_jsno_港磁力",
- "name": "无广 | BT天堂♥",
+ "key": "drpy_jsno_BT天堂",
+ "name": "磁力 | BT天堂",
  "type": 3,
  //"jar":"./spider.jar",
  "api": "csp_XBPQ",
@@ -107,8 +107,18 @@
  "ext": "./js/菜狗.js"
  },
  {
- "key": "往往影视",
- "name": "影视|往往影视",
+  "key": "南瓜",
+  "name": "🎃南瓜┃App",
+  "type": 3,
+  "api": "csp_NanGua",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4b9e4c28c8c5206945f0a710253a8db9b2bfb0d1/fan.jar"
+    },
+ {
+ "key": "drpy_js_往往影视",
+ "name": "影视 | 往往影视",
  "type": 3,
  "api": "./drpy2.min.js",
 //  "searchable":1,
@@ -126,12 +136,51 @@
  "filterable":1,
  "ext": "./json/TVB云播.json"
  },
+   {
+ "key": "6drpy_js_V新版_磁_.js",
+ "name": "磁力 | 6v影视",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/6V新版_磁_.js"
+ },
  {
- "key": "高清MP4",
- "name": "无广 | 高清MP4",
+ "key": "drpy_js_高清MP4",
+ "name": "磁力 | 高清MP4",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/高清MP4.js"
+ },
+  {
+ "key": "drpy_js_磁力熊",
+ "name": "磁力 | 磁力熊",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/磁力熊_磁_.js"
+ },
+ {
+ "key": "drpy_js_酷吧",
+ "name": "磁力 | 酷吧影视",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/kuba.js"
+ },
+ {
+ "key": "drpy_js_MP4磁力.js",
+ "name": "磁力 | MP4磁力[js]",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/MP4磁力.js"
+ },
+ 
+{
+ "key": "drpy_js_电影港影视",
+ "name": "磁力 | 电影港♥",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext": "./json/电影港磁力.json"
  },
 //   {
 //  "key": "不太灵",
@@ -150,13 +199,7 @@
  "filterable":1,
  "ext": "./json/尘落影视.json"
  },
- {
- "key": "酷吧",
- "name": "磁|酷吧无广",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/kuba.js"
- },
+ 
 //  {
 //  "key": "团长资源",
 //  "name": "磁力 | 团长资源",
@@ -165,7 +208,7 @@
 //  "ext": "./js/团长资源.js"
 //  },
   {
- "key": "电影盒子",
+ "key": "drpy_json_电影盒子",
  "name": "影视 | 电影盒子",
  "type": 3,
  "api": "csp_XBPQ",
@@ -174,29 +217,14 @@
  "filterable":1,
  "ext": "./json/电影盒子.json"
  },
-  {
- "key": "磁力熊",
- "name": "无广 | 磁力熊♥",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/磁力熊_磁_.js"
- },
+ 
    {
  "key": "片刻_磁_js",
- "name": "无广 |片刻[磁]♥",
+ "name": "磁力 |片刻[磁]",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/片刻_磁_.js"
  },
-  {
- "key": "6V新版_磁_.js",
- "name": "无广 |6v[磁]♥",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/6V新版_磁_.js"
- },
-
-
    {
  "key": "思古影视",
  "name": "无广 | 思古♥",
@@ -204,25 +232,7 @@
  "api": "./drpy2.min.js",
  "ext": "https://d.kstore.space/download/5037/js/思古影视.js"
  },
- {
- "key": "MP4磁力.js",
- "name": "磁力 | MP4磁力[js]",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/MP4磁力.js"
- },
- {
-  "key": "南瓜",
-  "name": "🎃南瓜┃App",
-  "type": 3,
-  "api": "csp_NanGua",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4b9e4c28c8c5206945f0a710253a8db9b2bfb0d1/fan.jar"
-    },
-
-
+ 
   {
  "key": "drpy_js_FREE",
  "name": "影视 | FREEOK[js]",

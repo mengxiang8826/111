@@ -1,0 +1,39 @@
+{
+  "作者": "邓联钧",
+  "站名": "影视|尘落影视",
+  "主页url": "https://v.zzdacou.com/",
+  
+  "分类": "电影$1#连续剧$2#综艺$4#动漫$3",
+  
+"分类url": "https://v.zzdacou.com/whole/{cateId}_{area}_{class}__{year}___0_id__{catePg}.html;;m",
+//https://www.6080yy4.com/vodshow/%7BcateId%7D-%7Barea%7D-%7Bby%7D-%7Bclass%7D-%7Blang%7D-------%7Byear%7D.html
+
+
+  "数组": "movie-item-in\">&&<div",
+ // "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+  "标题":"title=\"&&\"",
+  "图片":"src=\"&&\"",
+  //"副标题": "<div class=\"module-item-text\">&&</div>",
+  "副标题":"qtag hdtag\">&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "vod-soso/{wd}-------------.html",
+  "搜索数组": "<div class=\"module-search-item\">&&</div>",
+  "搜索副标题": "更新至&&</a>",
+  "是否开启手动嗅探":"1",
+  "手动嗅探视频链接关键词": ".ts#.hls#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+  
+  "影片年代": "",
+  "影片地区": "地区&&</a>",
+  "影片类型": "类型&&</a>",
+  "导演": "导演&&</a>",
+  "主演": "演员&&</a>",
+  "简介": "【请勿相信视频中的广告】+剧情介绍&&</a",
+  //"线路二次截取":"class=\"nav nav-tabs&&</ul>",
+  "线路数组": "aria-controls=&&</a",
+  "线路标题": ">&&<+♥",//aria-controls=&&</a
+  
+  "播放数组":"row tv-js-list&&</div></div",
+  "播放标题":"class=\"tv-js-btn\">&&</a>",
+  "播放列表":"<a&&/a>"
+}

@@ -3,7 +3,7 @@ var rule = {
 	host:'https://www.mp4us.com',
         homeUrl: '/',
 	url: '/list/fyclass-fypage.html?',
-	filter_url:'{{fl.class}}',
+	//filter_url:'{{fl.class}}',
 	filter:{
 	},
 	searchUrl: '/search/**-1.html',

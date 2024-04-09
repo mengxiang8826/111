@@ -33,7 +33,7 @@
  "sites":[
  {
  "key": "drpy_js_奇珍异兽",
- "name": "官源 | 爱奇艺",
+ "name": "官源 | 奇艺影视",
  "type": 3,
  "api": "./drpy2.min.js",
 
@@ -67,9 +67,16 @@
  "api": "./drpy2.min.js",
  "ext": "./js/百无芒果.js"
  },
+ {
+ "key": "drpy_js_菜狗",
+ "name": "官源 | 搜狗影视",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/菜狗.js"
+ },
   {
  "key": "drpy_js_6080",
- "name": "无广 |新视觉影视",
+ "name": "无广 | 视觉影视",
  "type": 3,
  "api": "csp_XBPQ",
  "searchable": 1,
@@ -90,7 +97,7 @@
  
  {
  "key": "csp_WoGG",
- "name": "阿⾥ ┃ 玩偶[4K]",
+ "name": "阿⾥ | 玩偶哥哥",
  "type": 3,
  "api": "csp_XYQHikerAL",
  "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
@@ -99,15 +106,7 @@
  "quickSearch": 1,
  "ext": "./json/玩偶哥哥.json"
  },
-{
- "key": "drpy_js_菜狗",
- "name": "官源 | 搜狗[js]",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/菜狗.js"
- },
-
- {
+ { 
  "key": "drpy_js_往往影视",
  "name": "影视 | 往往影视",
  "type": 3,
@@ -161,7 +160,7 @@
   }, 
   {
  "key": "drpy_js_磁力熊",
- "name": "磁力 | 磁力熊",
+ "name": "磁力 | 磁力熊猫",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/磁力熊_磁_.js"
@@ -175,7 +174,7 @@
  },
  {
  "key": "drpy_js_MP4磁力.js",
- "name": "磁力 | MP4磁力[js]",
+ "name": "磁力 | MP4电影",
  "type": 3,
  "api": "./drpy2.min.js",
  "ext": "./js/MP4磁力.js"
@@ -183,7 +182,7 @@
  
 {
  "key": "drpy_js_电影港影视",
- "name": "磁力 | 电影港♥",
+ "name": "磁力 | 电影港磁",
  "type": 3,
  "api": "csp_XBPQ",
  "searchable":1,

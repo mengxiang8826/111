@@ -48,7 +48,7 @@
  },
  {
  "key": "drpy_js_腾云驾雾",
- "name": "官源 |🐧影视",
+ "name": "官源 | 企鹅影视",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/腾讯.js"
@@ -59,14 +59,21 @@
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/优酷.js"
- },
+  },
   {
  "key": "drpy_js_百芒果",
- "name": "官源 | 🥭影视[js]",
+ "name": "官源 | 芒果影视[js]",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/百无芒果.js"
  },
+ {
+ "key": "drpy_js_菜狗",
+ "name": "官源 | 搜狗[js]",
+ "type": 3,
+ "api": "./js/lib/drpy2.min.js",
+ "ext": "./js/菜狗.js"
+  },
   {
  "key": "drpy_js_6080",
  "name": "无广 | 新视觉♥",
@@ -88,7 +95,7 @@
  "quickSearch": 1,
  "ext": "./json/BT天堂.json"
   }, 
- {
+  {
  "key": "csp_WoGG",
  "name": "阿⾥ ┃ 玩偶[4K]",
  "type": 3,
@@ -98,13 +105,6 @@
  "filterable": 1,
  "quickSearch": 1,
  "ext": "./json/玩偶哥哥.json"
- },
-{
- "key": "drpy_js_菜狗",
- "name": "官源 | 搜狗[js]",
- "type": 3,
- "api": "./js/lib/drpy2.min.js",
- "ext": "./js/菜狗.js"
  },
  {
  "key": "往往影视",
@@ -116,7 +116,7 @@
  "filterable":1,
  "ext": "./json/往往影视.json"
  },
-{
+ {
  "key": "TVB云播",
  "name": "无广 | TVB云播",
  "type": 3,
@@ -136,8 +136,7 @@
  "filterable":1,
  "ext": "./json/尘落影视.json"
  },
- 
-  {
+ {
  "key": "电影盒子",
  "name": "影视 | 电影盒子",
  "type": 3,
@@ -154,13 +153,13 @@
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/磁力熊_磁_.js"
  },
-   {
- "key": "片刻_磁_js",
- "name": "无广 |片刻[磁]♥",
- "type": 3,
- "api": "./js/lib/drpy2.min.js",
- "ext": "./js/片刻_磁_.js"
- },
+//    {
+//  "key": "片刻_磁_js",
+//  "name": "无广 |片刻[磁]♥",
+//  "type": 3,
+//  "api": "./js/lib/drpy2.min.js",
+//  "ext": "./js/片刻_磁_.js"
+//  },
   {
  "key": "6V新版_磁_.js",
  "name": "无广 |6v[磁]♥",

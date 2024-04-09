@@ -16,8 +16,9 @@ var rule = {
          	'Cookie':''
 	},
 	timeout:5000,
-	class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
-	class_url: '1&2&3&4&5&6&7&8&9&10',
+	//class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
+	//class_url: '1&2&3&4&5&6&7&8&9&10',
+	class_parse: '.nav ul li:gt(0):lt(11);a&&Text;a&&href;.*/(.*?).html',
 	play_parse:true,
 	play_json:[{
 		re:'*',

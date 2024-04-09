@@ -2,7 +2,8 @@ var rule = {
 	title:'酷吧[磁]',
 	host:'https://www.kubady1.com/',
         homeUrl: '/',
-	url: '/vodtypehtml/fyclass.html?',
+	url: '/fyclass.html?',
+	//vodtopichtml/11.html  vodtypehtml
 	//filter_url:'{{fl.class}}',
 	filter:{
 	},
@@ -15,8 +16,8 @@ var rule = {
 		'Referer': 'https://www.kubady1.com/'
 	},
 	timeout:5000,
-	class_name: '最新&4K&电影&动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&微电影&电视剧&动漫&纪录片',
-	class_url: 'new&11&1&5&6&7&8&9&10&11&21&31&4&16',
+	class_name: '最新&美剧/4K&电影&动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&微电影&电视剧&动漫&纪录片',
+	class_url: 'new&vodtopichtml/12&vodtopichtml/11&vodtypehtml/1&vodtypehtml/5&vodtypehtml/6&vodtypehtml/7&vodtypehtml/8&vodtypehtml/9&vodtypehtml/10&vodtypehtml/11&vodtypehtml/21&vodtypehtml/31&vodtypehtml/4&vodtypehtml/16',
 	play_parse:true,
 	play_json:[{
 		re:'*',

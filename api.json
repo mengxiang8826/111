@@ -33,7 +33,7 @@
  "sites":[
  {
  "key": "drpy_js_奇珍异兽",
- "name": "官源 | ♥爱棋艺",
+ "name": "官源 | 爱棋艺♥",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
 
@@ -41,7 +41,7 @@
  },
  {
  "key": "drpy_js_360影视",
- "name": "官源 | 360[js]",
+ "name": "官源 | 360影视",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/360影视.js"
@@ -85,6 +85,26 @@
  "ext": "./json/新视觉影视.json"
   },
   {
+ "key": "TVB云播",
+ "name": "无广 | TVB云播",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext": "./json/TVB云播.json"
+ },
+ {
+ "key": "往往影视",
+ "name": "无广 | 往往影视",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext": "./json/往往影视.json"
+ },
+  {
  "key": "drpy_jsno_港磁力",
  "name": "无广 | BT天堂♥",
  "type": 3,
@@ -94,7 +114,14 @@
  "filterable": 1,
  "quickSearch": 1,
  "ext": "./json/BT天堂.json"
-  }, 
+  },
+  {
+ "key": "drpy_js_FREE",
+ "name": "影视 | FREEOK[js]",
+ "type": 3,
+ "api": "./js/lib/drpy2.min.js",
+ "ext": "./js/FREEOK.js"
+ }, 
   {
  "key": "csp_WoGG",
  "name": "阿⾥ ┃ 玩偶[4K]",
@@ -105,26 +132,6 @@
  "filterable": 1,
  "quickSearch": 1,
  "ext": "./json/玩偶哥哥.json"
- },
- {
- "key": "往往影视",
- "name": "影视 | 往往影视",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/往往影视.json"
- },
- {
- "key": "TVB云播",
- "name": "无广 | TVB云播",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/TVB云播.json"
  },
  {
  "key": "尘落影视",
@@ -148,7 +155,7 @@
  },
   {
  "key": "磁力熊",
- "name": "无广 | 磁力熊♥",
+ "name": "磁力 | 磁力熊♥",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/磁力熊_磁_.js"
@@ -162,7 +169,7 @@
 //  },
   {
  "key": "6V新版_磁_.js",
- "name": "无广 |6v[磁]♥",
+ "name": "磁力 | 新版6V",
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "./js/6V新版_磁_.js"
@@ -176,7 +183,7 @@
  },
  {
   "key": "南瓜",
-  "name": "🎃南瓜┃App",
+  "name": "无广 ┃ 南瓜影视",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -190,15 +197,6 @@
  "type": 3,
  "api": "./js/lib/drpy2.min.js",
  "ext": "https://d.kstore.space/download/5037/js/思古影视.js"
- },
-
-
-  {
- "key": "drpy_js_FREE",
- "name": "影视 | FREEOK[js]",
- "type": 3,
- "api": "./js/lib/drpy2.min.js",
- "ext": "./js/FREEOK.js"
  }, 
    {
  "key": "drpy_js_两个BT",

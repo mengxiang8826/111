@@ -1,0 +1,41 @@
+{
+  "作者": "邓长老",
+  "站名": "电影盒子",
+  "主页url": "http://www.tv7box.com/",
+  
+  "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+  
+  "分类url": "http://www.tv7box.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-{by}-p-{catePg}.html;;m",
+  //http://www.tv7box.com/list-select-id-2-type--area--year--star--state--order-addtime-p-2.html
+  
+  "数组": "<li>&&</li>",
+  "图片":"data-src=\"&&\"",
+  "标题":"alt=\"&&\"",
+  "副标题": " class=\"v_bottom_tips\">&&</span>",
+  
+  "搜索模式": "1",
+  "搜索url": "/index.php?s=vod-search-name-{wd}",
+  "搜索数组": "<li>&&</li>",
+  "搜索图片": "data-src=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索副标题": "class=\"v_bottom_tips\">&&</span>",
+  "搜索链接": "href=\"&&\"",
+  
+  "影片年代": "年代：</em><em>&&</em>",
+  "影片地区": "地区：&&</li>",
+  "影片类型": "类型：</em>&&</li>",
+  "导演": "导演：</em>&&</em>",
+  "主演": "主演：</em>&&</li>",
+  "简介": "id=\"synopsis_txt\">&&</span>",
+  "是否开启手动嗅探":"1",
+  "手动嗅探视频链接关键词": ".ts#.hls#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+
+ // "线路二次截取":"play_source_tab clearfix\">&&</ul>",
+  "线路数组": "<ul class=\"play_source_tab clearfix\">&&</ul>",
+  "线路标题": ">&&</a></li>",
+  
+  "播放数组": "play_num_list&&</ul",
+  "播放列表": "<li&&</li>"
+  //"播放标题": "class=\"num\">&&</em>",
+  //"播放链接": "href=\"&&\""
+}

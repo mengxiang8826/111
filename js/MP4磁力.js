@@ -4,8 +4,8 @@ var rule = {
 	//https://www.mp4us.icu
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"center&&h1:eq(0)&&a&&href");print(src);HOST=src',
     //homeUrl: '/',
-	url: '/list/fyclass-fypage.html？',
-	filter_url:'{{fl.class}}',
+	url: '/list/fyclass-fypage.html?',
+	//filter_url:'{{fl.class}}',
 	searchUrl: '/search/**-1.html',
 	searchable:2,
 	quickSearch:0,

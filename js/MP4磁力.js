@@ -1,22 +1,22 @@
 var rule = {
 	title:'MP4电影[磁]',
-	host:'https://domp4.icu/',
-	//https://www.mp4us.icu
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pdfh(html,"center&&h1:eq(0)&&a&&href");print(src);HOST=src',
-    //homeUrl: '/',
+	host:'https://www.mp4us.com',
+        homeUrl: '/',
 	url: '/list/fyclass-fypage.html?',
-	//filter_url:'{{fl.class}}',
+	filter_url:'{{fl.class}}',
+	filter:{
+	},
 	searchUrl: '/search/**-1.html',
 	searchable:2,
 	quickSearch:0,
 	filterable:0,
 	headers:{
-		'User-Agent': ''
+		'User-Agent': 'PC_UA',
+         	'Cookie':''
 	},
 	timeout:5000,
-	//class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
-	//class_url: '1&2&3&4&5&6&7&8&9&10',
-	class_parse: '.nav ul li:gt(0):lt(11);a&&Text;a&&href;.*/(.*?).html',
+	class_name: '动作片&科幻片&爱情片&喜剧片&恐怖片&战争片&剧情片&纪录片&动画片&电视剧',
+	class_url: '1&2&3&4&5&6&7&8&9&10',
 	play_parse:true,
 	play_json:[{
 		re:'*',
@@ -26,9 +26,9 @@ var rule = {
 		}
 	}],
 	lazy:'',
-	limit:10,
+	limit:6,
 	推荐:'div.index_update ul li;a&&Text;;b&&Text;a&&href',
-	一级:'div #list_all&&ul li;img.lazy&&alt;img.lazy&&data-original;span.update_time&&Text;a&&href',
+	一级:'div#list_all ul li;img.lazy&&alt;img.lazy&&data-original;span.update_time&&Text;a&&href',
 	二级:{
 		title:"div.article-header h1&&Text",
 		img:"div.article-header div.pic img&&src",

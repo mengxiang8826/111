@@ -827,7 +827,7 @@
  //{"name": "官解","type": 1,"url": "https://cache.json.icu/a1804857380.php?url=","ext": {"flag":["qq", "腾讯" ],"header":{"User-Agent":"okhttp/4.1.0"}}},
  //{"name":"官解2","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
  {"name":"官解1","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
- {"name": "官解2","type": 1,"url": "https://jxjson.cf/ads.php?url="},
+ {"name": "BL","type": 0,"url": "https://vip.bljiex.com/?v="},
  //{"name": "K影院解析","type": 1,"url": "http://pandown.pro/app/lvdou.php?url=","ext": {"flag":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv","PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 //{"name": "技巧","type": 1,"url": "https://dx.maclsj.com/blue/json.php?url="},
  //{"name":"-⽟🌽⽶-","type":1,"url":"http://zn.ghlyys.com/znjsonapi.php.php?url="},

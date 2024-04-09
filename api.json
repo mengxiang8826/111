@@ -133,13 +133,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/高清MP4.js"
  },
-  {
- "key": "不太灵",
- "name": "无广 | 不太灵",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/不太灵.js"
- },
+//   {
+//  "key": "不太灵",
+//  "name": "无广 | 不太灵",
+//  "type": 3,
+//  "api": "./drpy2.min.js",
+//  "ext": "./js/不太灵.js"
+//  },
  {
  "key": "尘落影视",
  "name": "无广 | 尘落影视",
@@ -157,13 +157,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/kuba.js"
  },
- {
- "key": "团长资源",
- "name": "磁力 | 团长资源",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/团长资源.js"
- },
+//  {
+//  "key": "团长资源",
+//  "name": "磁力 | 团长资源",
+//  "type": 3,
+//  "api": "./drpy2.min.js",
+//  "ext": "./js/团长资源.js"
+//  },
   {
  "key": "电影盒子",
  "name": "影视 | 电影盒子",
@@ -252,46 +252,53 @@
  "ext": "https://d.kstore.space/download/5037/js/金曼影视.js"
  },
 
+//  {
+//  "key": "迅雷1080P",
+//  "name": " 无广|迅雷1080P",
+//  "type": 3,
+//  "api": "csp_XBPQ",
+//  "searchable":1,
+//  "quickSearch":1,
+//  "filterable":1,
+//  "ext": "./json/迅雷1080P.json"
+//  },
+//  {
+//  "key": "酒客影视",
+//  "name": "影视|酒客影视",
+//  "type": 3,
+//  "api": "csp_XBPQ",
+//  "searchable":1,
+//  "quickSearch":1,
+//  "filterable":1,
+//  "ext": "./json/酒客影视.json"
+//  },
+//  {
+//  "key": "圣城影视",
+//  "name": "影视|圣城影视",
+//  "type": 3,
+//  "api": "csp_XBPQ",
+//  "searchable":1,
+//  "quickSearch":1,
+//  "filterable":1,
+//  "ext": "./json/圣城影视.json"
+//  },
+//  {
+//  "key": "COKEMV",
+//  "name": "影视|COKEMV",
+//  "type": 3,
+//  "api": "csp_XBPQ",
+//  "searchable":1,
+//  "quickSearch":1,
+//  "filterable":1,
+//  "ext": "./json/COKEMV.json"
+//  },
  {
- "key": "迅雷1080P",
- "name": " 无广|迅雷1080P",
+ "key": "drpy_js_蓝光影院",
+ "name": "影视 | 蓝光影院[js]",
  "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/迅雷1080P.json"
- },
- {
- "key": "酒客影视",
- "name": "影视|酒客影视",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/酒客影视.json"
- },
- {
- "key": "圣城影视",
- "name": "影视|圣城影视",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/圣城影视.json"
- },
- {
- "key": "COKEMV",
- "name": "影视|COKEMV",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext": "./json/COKEMV.json"
- },
+ "api": "./drpy2.min.js",
+ "ext": "./js/蓝光影院.js"
+ }
  {
    "key": "fastok",
    "name": "影视|FastOK",
@@ -333,22 +340,22 @@
  "ext": "./json/LIBVIO.json"
  },
  {
- "key": "纽约影院",
- "name": "影视|纽约影院",
- "type": 3,
- "api": "csp_XBPQ",
- "searchable": 1,
- "quickSearch": 1,
- "filterable": 1,
- "ext": "./json/纽约影院.json"
- },
- {
- "key": "凌云影视",
- "name": "影视 | 凌云影视",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/凌云影视.js"
- },
+//  "key": "纽约影院",
+//  "name": "影视|纽约影院",
+//  "type": 3,
+//  "api": "csp_XBPQ",
+//  "searchable": 1,
+//  "quickSearch": 1,
+//  "filterable": 1,
+//  "ext": "./json/纽约影院.json"
+//  },
+//   {
+//  "key": "凌云影视",
+//  "name": "影视 | 凌云影视",
+//  "type": 3,
+//  "api": "./drpy2.min.js",
+//  "ext": "./js/凌云影视.js"
+//  },
  {
  "key": "南柯电影",
  "name": "影视 | 南柯电影",
@@ -754,13 +761,7 @@
  "api": "./drpy2.min.js",
  "ext": "./js/看了么.js"
  },
- {
- "key": "drpy_js_蓝光影院",
- "name": "影视 | 蓝光影院[js]",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/蓝光影院.js"
- }
+
 //  {
 //  "key": "drpy_js_利丽娅电影",
 //  "name": "影视 | 利丽娅电影[js]",

@@ -3,7 +3,7 @@ var rule = {
 	host:'https://www.kubady1.com/',
         homeUrl: '/',
 	url: '/vodtypehtml/fyclass.html?',
-	filter_url:'{{fl.class}}',
+	//filter_url:'{{fl.class}}',
 	filter:{
 	},
 	searchUrl: '/search/**-1.html',

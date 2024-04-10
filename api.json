@@ -206,11 +206,11 @@
  "key": "drpy_js_电影港影视",
  "name": "磁力 | 电影港磁",
  "type": 3,
- "api": "csp_XBPQ",
+ "api": "./drpy2.min.js",
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "ext": "./json/电影港磁力.json"
+ "ext": "./js/dygang.js"
  },
 //   {
 //  "key": "不太灵",

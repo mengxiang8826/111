@@ -41,7 +41,7 @@ list.forEach(function(it) {
 	d.push({
 		title: pdfh(it, 'img&&alt'),
 		desc: pdfh(it, 'div.post-info .post-list-cat&&Text'),
-		pic_url: 'http://127.0.0.1:10079/i/0/s/'+pd(it, 'img&&src', HOST),
+		pic_url: 'pd(it, 'img&&srcset', HOST),
 		url: pd(it, 'a&&href', HOST)
 	});
 })

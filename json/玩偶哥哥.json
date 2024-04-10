@@ -7,7 +7,7 @@
 "是否开启获取首页数据": "是",
 "首页推荐链接": "http://wogg.link", 
 "首页列表数组规则": "body&&.module-items", 
-"首页片单列表数组规则": ".module-item:not(:matches(饭太硬|公众号))", 
+"首页片单列表数组规则": ".module-item", 
 "首页片单是否Jsoup写法": "1", 
 "分类起始页码": "1",  
 "分类链接": "http://wogg.link/index.php/vodshow/{cateId}--{by}------{catePg}---{year}.html",  
@@ -27,7 +27,7 @@
 "筛选排序名称": "时间&人气&评分", 
 "筛选排序替换词": "time&hits&score", 
 "分类截取模式": "1", 
-"分类列表数组规则": ".module-items&&.module-item:not(:matches(饭太硬|公众号))",
+"分类列表数组规则": ".module-items&&.module-item",
 "分类片单是否Jsoup写法": "是", 
 "分类片单标题": "a&&title", 
                    

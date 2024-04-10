@@ -86,7 +86,7 @@
   },
    {
   "key": "南瓜",
-  "name": "无广 ┃ 南🎃影视",
+  "name": "无广 | 南🎃影视",
   "type": 3,
   "api": "csp_NanGua",
   "searchable": 1,
@@ -97,7 +97,7 @@
  
  {
  "key": "csp_WoGG",
- "name": "阿⾥ | 玩偶哥哥",
+ "name": "网盘 | 玩偶4k",
  "type": 3,
  "api": "csp_XYQHikerAL",
  "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
@@ -108,7 +108,7 @@
  },
   {
  "key": "csp_WoGG2",
- "name": "阿⾥ | 多多4K",
+ "name": "网盘 | 多多4K",
  "type": 3,
  "api": "csp_XYQHikerAL",
  "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",

@@ -48,7 +48,7 @@ list.forEach(function(it) {
 setResult(d);
 `,
 	二级:{
-		title:"header .entry-header h1&&Text",
+		title:"header.entry-header h1&&Text",
 		img:"div.entry-content img&&data-src",
 		desc:"#primary-home .post-meta li.single-date&&Text",
 		content:"#primary-home article .entry-content&&Text",

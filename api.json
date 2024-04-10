@@ -212,6 +212,13 @@
  "filterable":1,
  "ext": "./js/dygang.js"
  },
+  {
+ "key": "团长资源",
+ "name": "磁力 | 团长资源",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/tzfile.js"
+ },
 //   {
 //  "key": "不太灵",
 //  "name": "无广 | 不太灵",
@@ -230,13 +237,7 @@
  "ext": "./json/尘落影视.json"
  },
  
-//  {
-//  "key": "团长资源",
-//  "name": "磁力 | 团长资源",
-//  "type": 3,
-//  "api": "./drpy2.min.js",
-//  "ext": "./js/团长资源.js"
-//  },
+
   {
  "key": "drpy_json_电影盒子",
  "name": "影视 | 电影盒子",

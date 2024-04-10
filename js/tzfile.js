@@ -3,7 +3,7 @@ var rule = {
 	host:'https://t-rex.tzfile.com',
 	homeUrl:'/',
 	url: '/fyclass/page/fypage?',
-	filter_url:'{{fl.class}}',
+	//filter_url:'{{fl.class}}',
 	filter:{
 	},
 	searchUrl: '/?s=**&type=post',

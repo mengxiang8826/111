@@ -36,11 +36,11 @@ let d = [];
 log("tzfiles input>>>>>>>>>>>>>>"+input);
 let html = request(input);
 //log("tzfiles 1level html>>>>>>>>>>>>>>"+html);
-let list = pdfa(html, '#post-list ul li');
+let list = pdfa(html, '#primary-home ul li');
 list.forEach(function(it) {
 	d.push({
 		title: pdfh(it, 'img&&alt'),
-		desc: pdfh(it, 'div.post-info .post-list-cat&&Text'),
+		desc: pdfh(it, 'div.post-info span&&Text'),
 		pic_url: pd(it, 'picture.picture source&&data-srcset'),
 		url: pd(it, 'a&&href', HOST)
 	});
@@ -49,7 +49,7 @@ setResult(d);
 `,
 	二级:{
 		title:"header .entry-header h1&&Text",
-		img:"div.entry-content img&&src",
+		img:"div.entry-content img&&data-src",
 		desc:"#primary-home .post-meta li.single-date&&Text",
 		content:"#primary-home article .entry-content&&Text",
 		tabs:`js:

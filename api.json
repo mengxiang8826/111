@@ -117,6 +117,17 @@
  "quickSearch": 1,
  "ext": "./json/多多4K.json"
  },
+ {
+ "key": "csp_WoGG3",
+ "name": "网盘 | 玩我4k",
+ "type": 3,
+ "api": "csp_XYQHikerAL",
+ "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
+ "searchable": 1,
+ "filterable": 1,
+ "quickSearch": 1,
+ "ext": "./json/玩我4K.json"
+ },
  { 
  "key": "drpy_js_往往影视",
  "name": "影视 | 往往影视",

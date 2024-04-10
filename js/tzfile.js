@@ -36,7 +36,7 @@ let d = [];
 log("tzfiles input>>>>>>>>>>>>>>"+input);
 let html = request(input);
 //log("tzfiles 1level html>>>>>>>>>>>>>>"+html);
-let list = pdfa(html, '#primary-home ul li:has(img)');
+let list = pdfa(html, '#post-list ul li');
 list.forEach(function(it) {
 	d.push({
 		title: pdfh(it, 'img&&alt'),

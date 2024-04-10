@@ -48,8 +48,8 @@ list.forEach(function(it) {
 setResult(d);
 `,
 	二级:{
-		title:"#primary-home h1&&Text",
-		img:"#primary-home article div.entry-content img&&src",
+		title:"header .entry-header h1&&Text",
+		img:"div.entry-content img&&src",
 		desc:"#primary-home .post-meta li.single-date&&Text",
 		content:"#primary-home article .entry-content&&Text",
 		tabs:`js:

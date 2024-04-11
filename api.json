@@ -219,13 +219,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/tzfile.js"
  },
-//   {
-//  "key": "不太灵",
-//  "name": "无广 | 不太灵",
-//  "type": 3,
-//  "api": "./drpy2.min.js",
-//  "ext": "./js/不太灵.js"
-//  },
+  {
+ "key": "HDmoli_js",
+ "name": "无广 | HDmoli",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/HDmoli.js"
+ },
  {
  "key": "尘落影视",
  "name": "无广 | 尘落影视",

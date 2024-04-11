@@ -5,7 +5,8 @@ muban.首图.二级.content = '.desc&&Text';
 var rule = {
     title:'HDmoli',
     模板:'首图',
-    host:'https://www.hdmoli.com',
+    host:'https://molicp.com',
+    hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".content-top&&a&&href");print(src);HOST=src',
     // url:'/mlist/fyclass-fypage.html',
     url:'/search.php?page=fypage&searchtype=5&tid=fyfilter',
     filterable:1,//是否启用分类筛选,

@@ -1,7 +1,7 @@
 // 网址发布页 https://molicp.com
 muban.首图.二级.title = '.text-fff--font&&Text;.data--span:eq(0)&&Text';
 muban.首图.二级.desc = '#rating&&Text;;;.data--span:eq(1)&&Text;.data--span:eq(2)&&Text';
-muban.首图.二级.content = '.desc&&Text';
+muban.首图.二级.content = '.padding-0&&p&&Text';
 var rule = {
     title:'HDmoli',
     模板:'首图',

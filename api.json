@@ -219,13 +219,13 @@
  "filterable":1,
  "ext": "./js/dygang.js"
  },
-//   {
-//  "key": "团长资源",
-//  "name": "磁力 | 团长资源",
-//  "type": 3,
-//  "api": "./drpy2.min.js",
-//  "ext": "./js/tzfile.js"
-//  },
+  {
+ "key": "4khrd",
+ "name": "磁力 | 4khrd",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/4khrd.js"
+ },
   {
  "key": "HDmoli_js",
  "name": "无广 | HDmoli",

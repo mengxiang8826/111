@@ -201,6 +201,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/MP4磁力.js"
  },
+  {
+ "key": "6drpy_js_BT世界.js",
+ "name": "磁力 | BT世界",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/BT世界.js"
+ },
  
 {
  "key": "drpy_js_电影港影视",

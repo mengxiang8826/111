@@ -91,6 +91,7 @@
  "api": "csp_XYQHikerAL",
  "searchable": 1,
  "filterable": 1,
+ "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
  "quickSearch": 1,
  "ext": "./json/4KHDR.json"
   },

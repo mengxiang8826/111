@@ -3,7 +3,7 @@ var rule = {
 	host:'https://www.4khdr.cn',
         homeUrl: "/forum.php?mod=forumdisplay&fid=2&page=1",
 	url: '/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=fyclass&page=fypage',
-	filter_url:'{{fl.class}}',
+	//filter_url:'{{fl.class}}',
 	filter:{
 	},
 	searchUrl: '/search.php#searchsubmit=yes&srchtxt=**;post',

@@ -1,8 +1,8 @@
 var rule = {
 	title:'MP4电影[磁]',
-	host:'https://www.mp4us.com',
+	host:'https://www.btsj6.com/',
         homeUrl: '/',
-	url: '/list/fyclass-fypage.html?',
+	url: '/category/fyclass/fypage',
 	filter_url:'{{fl.class}}',
 	filter:{
 	},

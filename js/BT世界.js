@@ -7,7 +7,7 @@ var rule = {
 	//filter_url:'{{fl.class}}',
 	filter:{
 		},
-	searchUrl: '/?s=**;post',
+	searchUrl: '/?s=**;GET',
 	//https://www.btsj6.com
 	searchable:2,
 	quickSearch:0,
@@ -16,7 +16,7 @@ var rule = {
 		'User-Agent': 'MOBILE_UA'
 	},
 	timeout:5000,
-	class_parse:'#nav&&li:gt(0);a&&Text;a&&href;.*/(.*)/',
+	class_parse:''#nav&&li;a&&Text;a&&href;.*/(.*?).html',
 	cate_exclude:'',
 	play_parse:true,
 	limit:6,

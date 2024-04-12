@@ -36,7 +36,7 @@ list.forEach(it => {
 	d.push({
 		title: pdfh(it, '.cap&&Text'),
 		desc: pdfh(it, 'div.entry-rating&&Text') + ' / ' + pdfh(it, 'div.entry-status&&Text'),
-		pic_url: pd(it, 'img&&src', HOST),
+		pic_url: pd(it, 'a&&img&&src', HOST),
 		url: pd(it, 'a&&href',HOST)
 	});
 });

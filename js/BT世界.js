@@ -3,12 +3,12 @@ var rule = {
 	host:'https://www.btsj6.com/',
 	// host:'https://www.66s6.net',
 	// url: '/fyclass/index_fypage.html[/fyclass/index.html]',
-	url: '/fyclassfyfilter/index_fypage.html[/fyclassfyfilter/index.html]',
+	url: '/category/fyclass/fypage/',
 	//filter_url:'{{fl.class}}',
-	//filter:{
-		"dianshiju":[{"key":"class","name":"类型","value":[{"n":"全部","v":""},{"n":"国剧","v":"/guoju"},{"n":"日韩剧","v":"/rihanju"},{"n":"欧美剧","v":"/oumeiju"}]}]
-	},
-	searchUrl: '/e/search/index.php#show=title&tempid=1&tbname=article&mid=1&dopost=search&submit=&keyboard=**;post',
+	filter:{
+		},
+	searchUrl: '/?s=**;post',
+	//https://www.btsj6.com
 	searchable:2,
 	quickSearch:0,
 	filterable:1,

@@ -201,13 +201,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/MP4磁力.js"
  },
-  {
- "key": "6drpy_js_BT世界.js",
- "name": "磁力 | BT世界",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/BT世界.js"
- },
+//   {
+//  "key": "6drpy_js_BT世界.js",
+//  "name": "磁力 | BT世界",
+//  "type": 3,
+//  "api": "./drpy2.min.js",
+//  "ext": "./js/BT世界.js"
+//  },
  
 {
  "key": "drpy_js_电影港影视",
@@ -219,13 +219,13 @@
  "filterable":1,
  "ext": "./js/dygang.js"
  },
-  {
- "key": "团长资源",
- "name": "磁力 | 团长资源",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/tzfile.js"
- },
+//   {
+//  "key": "团长资源",
+//  "name": "磁力 | 团长资源",
+//  "type": 3,
+//  "api": "./drpy2.min.js",
+//  "ext": "./js/tzfile.js"
+//  },
   {
  "key": "HDmoli_js",
  "name": "无广 | HDmoli",

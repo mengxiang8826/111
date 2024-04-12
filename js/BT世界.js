@@ -3,7 +3,7 @@ var rule = {
 	host:'https://www.btsj6.com/',
         homeUrl: '/',
 	url: '/category/fyclass/fypage',
-	filter_url:'{{fl.class}}',
+	//filter_url:'{{fl.class}}',
 	filter:{
 	},
 	searchUrl: '/search/**-1.html',

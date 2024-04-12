@@ -16,7 +16,9 @@ var rule = {
 		'User-Agent': 'MOBILE_UA'
 	},
 	timeout:5000,
-	class_parse:''#nav&&li;a&&Text;a&&href;.*/(.*?).html',
+    class_name: "动作片&科幻片&犯罪片&战争片&爰情片&悬疑片&喜剧片&恐怖片&灾难片&奇幻片&惊悚片&动画片&剧情片&纪录片&內地剧&欧美剧&韩剧&日剧",
+  	class_url: "dongzuo&kehuan&fanzui&zhanzeng&aiqing&xuanyi&xiju&kongbu&zainan&qihuan&jingsong&donghua&juqing&jilu&neidi&oumei&hanju&riju",
+	//class_parse:''#nav&&li;a&&Text;a&&href;.*/(.*?).html',
 	cate_exclude:'',
 	play_parse:true,
 	limit:6,

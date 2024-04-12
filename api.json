@@ -85,6 +85,16 @@
  "ext": "./json/新视觉影视.json"
   },
    {
+ "key": "drpy_js_4KHDR",
+ "name": "无广 | 4KHDR",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable": 1,
+ "filterable": 1,
+ "quickSearch": 1,
+ "ext": "./json/4KHDR.json"
+  },
+   {
   "key": "南瓜",
   "name": "无广 | 南🎃影视",
   "type": 3,

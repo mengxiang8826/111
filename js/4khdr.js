@@ -3,6 +3,7 @@ var rule = {
 	host:'https://www.4khdr.cn',
         homeUrl: "/forum.php?mod=forumdisplay&fid=2&page=1",
 	url: '/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=fyclass&page=fypage',
+	//forum.php?mod=forumdisplay&fid=2&&filter=typeid&typeid={cateId}&page={catePg}
 	//filter_url:'{{fl.class}}',
 	filter:{
 	},
@@ -33,7 +34,7 @@ var rule = {
 		title:"#thead_subject&&Text",
 		img:"img.zoom&&src",
 		desc:'td[id^="postmessage_"] font&&Text',
-		content:'td[id^="postmessage_"] font&&Text',
+		content:'td[id^="postmessage_"] hr&&Text',
 		tabs:`js:
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 TABS=[]

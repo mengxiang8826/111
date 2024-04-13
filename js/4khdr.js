@@ -28,7 +28,7 @@ var rule = {
 	}],
 	lazy:'',
 	limit:6,
-	推荐:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
+	推荐:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&fnont&&Text;a&&href',
 	一级:'ul#waterfall li;a&&title;img&&src;div.auth.cl&&Text;a&&href',
 	二级:{
 		title:"#thead_subject&&Text",

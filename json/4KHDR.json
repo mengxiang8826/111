@@ -43,7 +43,7 @@
     "分类片单链接加前缀": "https://www.4khdr.cn/",
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$手机#Referer$https://cn.bing.com/",
-    "搜索链接": "https://cn.bing.com/search?q={wd}+site:https://www.4khdr.cn&qs=ds&form=QBRE",
+    "搜索链接": "/search.php?mod=forum&searchid=2061&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": "ol#b_results&&li.b_algo",

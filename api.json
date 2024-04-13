@@ -318,16 +318,16 @@
  "ext": "https://d.kstore.space/download/5037/js/金曼影视.js"
  },
 
-//  {
-//  "key": "迅雷1080P",
-//  "name": " 无广|迅雷1080P",
-//  "type": 3,
-//  "api": "csp_XBPQ",
-//  "searchable":1,
-//  "quickSearch":1,
-//  "filterable":1,
-//  "ext": "./json/迅雷1080P.json"
-//  },
+ {
+ "key": "迅雷1080P",
+ "name": " 无广|迅雷1080P",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext": "./json/迅雷1080P.json"
+ },
 //  {
 //  "key": "酒客影视",
 //  "name": "影视|酒客影视",

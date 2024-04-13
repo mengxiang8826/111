@@ -7,7 +7,7 @@ var rule = {
 	//filter_url:'{{fl.class}}',
 	filter:{
 	},
-	searchUrl: '/search.php#searchsubmit=yes&srchtxt=**;post',
+	searchUrl: '/search.php?mod=forum&searchid=2061&orderby=lastpost&ascdesc=desc&searchsubmit=yes&kw=**;get',
 	searchable:2,
 	quickSearch:1,
 	filterable:0,

@@ -235,7 +235,7 @@
  "name": "磁力 | 4khrd",
  "type": 3,
  "api": "./drpy2.min.js",
- "ext": "./js/4khrd.js"
+ "ext": "./js/4khdr.js"
  },
   {
  "key": "HDmoli_js",

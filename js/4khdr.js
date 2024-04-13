@@ -13,7 +13,7 @@ var rule = {
 	filterable:0,
 	headers:{
 		'User-Agent': 'PC_UA',
-         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/4khdr.txt',
+         	'Cookie':'hvLw_2132_saltkey=OL9kR3tI; hvLw_2132_lastvisit=1712652087; Hm_lvt_786cb39ec50724f53df428d52b8b7497=1712655692; _clck=1tysrbw%7C2%7Cfkw%7C0%7C1560; hvLw_2132_seccodecSASgA=2239.ca8afeb49ceab9d231; hvLw_2132_seccodecSAxkj=2254.1d1a71c422693b3b5e; hvLw_2132_sendmail=1; hvLw_2132_seccodecS=2414.827b31a4d25aa5c66f; hvLw_2132_ulastactivity=1712983558%7C0; hvLw_2132_auth=2db6mijckp5kcdjOtXcv5QrY5F9162mXONBkswwtM2TpUhhC7T%2Bwsc2qlctByW3gDUdRBJsV8GE2wkfmhk63HiwCbME; hvLw_2132_sid=0; hvLw_2132_noticeTitle=1; hvLw_2132_smile=1D1; hvLw_2132_home_diymode=1; hvLw_2132_newemail=252902%09721155657%40qq.com%091712983659; hvLw_2132_seccodecS0=2448.8ca77916a61a08af1c; hvLw_2132_checkpm=1; hvLw_2132_st_p=252902%7C1712983678%7C31586af47c493cfa4c71ef4d3d2decb5; hvLw_2132_viewid=tid_11058; _clsk=11buuow%7C1712983691928%7C26%7C1%7Cl.clarity.ms%2Fcollect; hvLw_2132_lastact=1712983700%09forum.php%09forumdisplay; hvLw_2132_st_t=252902%7C1712983700%7Ca5bbf78f9f2f98ccdfefaa3c1debb9ba; hvLw_2132_forum_lastvisit=D_2_1712983700; Hm_lpvt_786cb39ec50724f53df428d52b8b7497=1712983704',
 	},
 	timeout:5000,
 	class_name: "4K电影&4K美剧&4K华语&4K动画&4K纪录片&4K日韩印&蓝光电影&蓝光电视剧&蓝光动画&其他",

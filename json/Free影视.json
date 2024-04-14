@@ -1,12 +1,12 @@
     {
     
-    "作者":"荷城茶秀",
+    "作者":"",
     
     "站名":"Free影视",
     
     "主页url":"https://www.freeok.vip",
     
-    "简介":"【荷城茶秀】提醒您请勿相信影片中的广告，以免上当受骗！欢迎加入QQ交流群：869277279，公众号：日后魔改，获取更多影视资源。+module-info-introduction-content\">&&</p>",
+    "简介":"module-info-introduction-content\">&&</p>",
     
     "导演":"导演：&&</div>",
     
@@ -30,7 +30,7 @@
 
     "搜索二次截取": "type=\"application/json\">&&</script>",
     
-    "搜索url": "https://search.ymck.me/index.php?q={wd}",
+    "搜索url": "https://www.freeok.vip/so1so/%7Bwd%7D-------------.html",
                 
     "搜索数组": "<b>&&</b>[包含:Freeok]",
                 
@@ -44,7 +44,7 @@
     
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
     
-    "线路标题":"荷城茶秀接口-+<span>&&</small>[替换:高清频道>>高清#备用频道>>备用#OK频道>>OK#</span><small>>>>🌸共]+集🌸",
+    "线路标题":"<span>&&</small>[替换:高清频道>>高清#备用频道>>备用#OK频道>>OK#</span><small>>>>共]+集",
     
     "播放数组":"<div class=\"module-play-list-content&&</div>",
     
@@ -52,7 +52,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     

@@ -156,6 +156,16 @@
  "api": "./drpy2.min.js",
  "ext": "./js/FREEOK.js"
  }, 
+ {
+ "key": "Fee影视",
+ "name": "无广 | Fee影视",
+ "type": 3,
+ "api": "csp_XBPQ",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext": "./json/Fee影视.json"
+ },
 {
  "key": "TVB云播",
  "name": "无广 | TVB云播",
@@ -166,6 +176,7 @@
  "filterable":1,
  "ext": "./json/TVB云播.json"
  },
+
    {
  "key": "6drpy_js_V新版_磁_.js",
  "name": "磁力 | 6v影视",

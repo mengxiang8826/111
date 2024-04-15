@@ -208,21 +208,25 @@ CNTG记录,http://111.40.196.27:443/0000000000001000/7114647837765104058/index.m
 
 遼寧衛視,https://epg.pw/stream/839305f9ff7f16cfa4632450cdc7e07207e9a29b8a2346e2a0f2e53a4b7f5e8a.ctv
 
-重慶移動,https://epg.pw/stream/0b4de327138d177c5efdaf9456fc6ee34e3e58c02b92873ff3ddabb6c553b972.m3u8
-重慶移動,https://epg.pw/stream/bf136c3cdb83ab869e7a7e276b9316eb6d74619e8bcad6df3705d866524b038d.m3u8
-重慶衛視,https://epg.pw/stream/3e54d8823d041c70e4d63411dcbe6ea7c5b5ce07e3a2c0b179484753e199a244.m3u8
-重慶衛視[ipv6],https://epg.pw/stream/db87bc979d1c5004a4b6403aa42c8cc09da751ecd2f1cf27806cf13032ea15e4.m3u8
+
+
 重慶衛視[ipv6],https://epg.pw/stream/c670bd09c70e16f7f37bbf2703a224f91f86bb3358a174044a13ff9c8cb1d4fb.m3u8
 重慶衛視[ipv6],https://epg.pw/stream/0d2429c7e09cf4c6753cd0782edbe7ad2e0567eb6bf3bbfafd7171035e5f73d5.m3u8
+重慶衛視[ipv6],https://epg.pw/stream/18c3ad6d7122e140ccdd421a07e992f30fbc5bcb5dcfbe59eb318046505d36f1.m3u8
+
+重慶衛視[ipv6],https://epg.pw/stream/f086c767304aa159b2fabd7242210345a74838560a7016e8b06b107a024682e5.m3u8
+重慶衛視,https://epg.pw/stream/3e54d8823d041c70e4d63411dcbe6ea7c5b5ce07e3a2c0b179484753e199a244.m3u8
+
 重慶衛視,https://epg.pw/stream/e70beb33e3a7a22627a206850b0993dc895547ed3576be8780e83442fc70e2a9.m3u8
-重慶衛視,https://epg.pw/stream/ceedcbb7adf9d8b1421a8956c1436267ed01764ea26bec06d2658b7123b8adcf.m3u8
+
 重慶衛視,https://epg.pw/stream/108599783dc876b63593afd52c4b06a0624abd82521fc62dd8e37a4c815fdf69.ctv
 重慶衛視,https://epg.pw/stream/3084264f9ef73d646c528f09e31ee6819ac270f0a98aad78a63d9047fd2ce457.ctv
-重慶衛視,https://epg.pw/stream/98876f0a494b1b3cf49e8ee2571587cbc823726dfa273b7a10e966290a7ef202.m3u8
+
 重慶衛視,https://epg.pw/stream/d7f394c967b93741b4ac57ce7cb72463f9da0d535753f355a3b16d7c2b1331a2.m3u8
-重慶衛視[ipv6],https://epg.pw/stream/18c3ad6d7122e140ccdd421a07e992f30fbc5bcb5dcfbe59eb318046505d36f1.m3u8
-重慶衛視,https://epg.pw/stream/b6af4654cff784a3c2e7edd6a23b27c804fe4f54623331338e81dd36d6a9bb20.m3u8
-重慶衛視[ipv6],https://epg.pw/stream/f086c767304aa159b2fabd7242210345a74838560a7016e8b06b107a024682e5.m3u8
+
+重慶衛視[ipv6],https://epg.pw/stream/db87bc979d1c5004a4b6403aa42c8cc09da751ecd2f1cf27806cf13032ea15e4.m3u8
+
+
 重慶衛視,https://epg.pw/stream/363d5aaaf92a19aedd464910eed5e553139b4ea468b6a64be35e95177d6d444f.m3u8
 北京衛視[ipv6],https://epg.pw/stream/a1b8449e57128964aa71351c670ff6f35a16043ffbf54a2bf1cb780837224ce6.m3u8
 北京衛視[ipv6],https://epg.pw/stream/81a83aae5e098095fc514c5ab802f00c5a651b3846694b4ad69e3fb649ed270a.m3u8

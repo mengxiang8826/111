@@ -242,8 +242,8 @@ CNTG记录,http://111.40.196.27:443/0000000000001000/7114647837765104058/index.m
 山西衛視,https://epg.pw/stream/7134b52d41c5da0ebefe4234424eb6e81cb40844c3c32dec3bb8ec46c333c129.m3u8
 山西衛視,https://epg.pw/stream/b823fe76cf4694e288f9ab5e1344df59f2e54acd9de51892483d5c2caf320282.m3u8
 
-山西衛視,rtmp://live-stream.lsxrmtzx.com/live/video
-山西衛視,h2ttps://epg.pw/stream/0e4614e05bb03a10e6097d040fef64f0c9ab6af8f8dd85beb17c7642f4661e81.m3u8
+山西衛視1,rtmp://live-stream.lsxrmtzx.com/live/video
+山西衛視,https://epg.pw/stream/0e4614e05bb03a10e6097d040fef64f0c9ab6af8f8dd85beb17c7642f4661e81.m3u8
 山西衛視,https://epg.pw/stream/956df14726aa90a63a01bc11e8da35c87edf73e42bf5b75979a12d49aada2d08.m3u8
 山西衛視,https://epg.pw/stream/2f71402c1668ecec87011a346d85b3ef21c971de5e66db75b51cc969ec88c40c.m3u8
 山西衛視,https://epg.pw/stream/9cf90a5bc1e2f4ed673ffc09896e1b1722838ef41ed829690527a0e5b4e124c2.m3u8
@@ -256,15 +256,14 @@ CNTG记录,http://111.40.196.27:443/0000000000001000/7114647837765104058/index.m
 西藏卫视,https://epg.pw/stream/6813e053b70cb87f76e097e1fcc36d4cc3eae132496555134d0f98b3fb717629.m3u8
 
 
-陝西衛視[ipv6],https://epg.pw/stream/98137d0ff9dd475c57549627bb1e3ad9cb730758a539b72f85966f0735b4f151.m3u8
-陝西衛視[ipv6],https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
-陝西衛視,https://epg.pw/stream/f329709f6f2f437e06a426ffc1a1aa9c1459f09aa35b76d24c9a104450f10e08.m3u8
-陝西衛視,https://epg.pw/stream/9e3fb9ab48b92c15094f2bd804748c59a3abf8b3eb8cc6706fe35f0b748c1d01.m3u8
-陝西衛視,https://epg.pw/stream/234bd80fa21d14842c78e72606de86bcaf3a5facfbbcfa1e4c49e0c02c2486c1.m3u8
-陝西衛視,https://epg.pw/stream/cb516ac465877e0fecc26654d22360f652319eb709bdc2d85bc423e124c03255.ctv
-陝西衛視,https://epg.pw/stream/d1c3111777dcbffa0ac86e34e8864c3756ce4c954be55f6b0b993cceb3a1a58a.m3u8
-陝西衛視,https://epg.pw/stream/d0e5f8f42fad0a2ddf3fa3a3eafe71041664759ee361a9f0a8f3bea4caad8f9e.m3u8
-陝西衛視,https://epg.pw/stream/2c637733b2dd78e2ad0db54f7de2b22d585fb4bdd64f08c474a1c7710cb611ad.m3u8
+陝西卫视,https://epg.pw/stream/98137d0ff9dd475c57549627bb1e3ad9cb730758a539b72f85966f0735b4f151.m3u8
+陝西卫视,https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
+陝西卫视,https://epg.pw/stream/f329709f6f2f437e06a426ffc1a1aa9c1459f09aa35b76d24c9a104450f10e08.m3u8
+陝西卫视,https://epg.pw/stream/9e3fb9ab48b92c15094f2bd804748c59a3abf8b3eb8cc6706fe35f0b748c1d01.m3u8
+陝西卫视,https://epg.pw/stream/234bd80fa21d14842c78e72606de86bcaf3a5facfbbcfa1e4c49e0c02c2486c1.m3u8
+陝西卫视,https://epg.pw/stream/cb516ac465877e0fecc26654d22360f652319eb709bdc2d85bc423e124c03255.ctv
+陝西卫视,https://epg.pw/stream/d1c3111777dcbffa0ac86e34e8864c3756ce4c954be55f6b0b993cceb3a1a58a.m3u8
+
 
 青海卫视,https://epg.pw/stream/fad5348a9b285c835736b9f812f4785acff0120fc543ca59063b87dca13e7229.m3u8
 青海卫视,https://epg.pw/stream/e0551db6bc9512b248a2da5f2455dee2c1d3164fb9ece82daa77b0c1b7ffb8a4.m3u8

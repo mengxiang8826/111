@@ -102,13 +102,13 @@ CNTG记录,http://111.40.196.27:443/0000000000001000/7114647837765104058/index.m
 湖南卫视,http://39.134.136.151:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
 湖北卫视,https://epg.pw/stream/56218d26b64a208bae98ae4f2fd89b1ade6f7fdead70a2a1fc170e6d6098dd19.m3u8
 湖北卫视,https://epg.pw/stream/d624845bae92dcd8ae15384141ea8ed6ceb2c96b8a3fe32564f7f295feff46f4.m3u8
-湖北衛卫视,https://epg.pw/stream/2cadff68f8e06b03d10536121b2764ac658a8cb451d1901107c2039ac49a6757.m3u8
+湖北卫视,https://epg.pw/stream/2cadff68f8e06b03d10536121b2764ac658a8cb451d1901107c2039ac49a6757.m3u8
 湖北卫视,https://epg.pw/stream/ab80e5987efe89f6c1f61dfc35db80f025cf1247d81df0df419be4887ccab339.m3u8
 湖北卫视,https://epg.pw/stream/3cb6855633c6ae0baf0c863165c9da533d7e5af1302086a525e29355ee31decb.m3u8
 
 广东卫视,https://epg.pw/stream/d561fd3f552ba43e4chttp://cfss.cc/api/ysp/gdws.m3u8
 广东卫视,https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8
-广东卫视,7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
+广东卫视,
 东南卫视,https://epg.pw/stream/12cc275a53b0651fdf3fb0c2e9a8bdf5a3eb47d2470edf05da5d0e5d86681f23.m3u8
 东南卫视,https://epg.pw/stream/1db024b1ccbb6eba6a074aea8e26e4d713c26f8e48a042ca98c8ba34743d3433.m3u8
 东南卫视,https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8

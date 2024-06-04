@@ -1,6 +1,7 @@
 var rule = {
 	title:'酷吧[磁]',
-	host:'https://www.kubady1.com/',
+	host:'https://kubady.github.io/kuba/',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".content-top ul&&li:eq(3)&&a&&href");print(src);HOST=src',
         homeUrl: '/',
 	url: '/vodtypehtml/fyclass.html?',
 	//vodtopichtml/11.html  vodtypehtml

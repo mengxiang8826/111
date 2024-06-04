@@ -11,6 +11,7 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-{by}-{catePg}-30.html",
+    //https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html
     //"分类": "电影$list#电视剧$tv#最新更新$news#排行榜$rank",
     "分类名称": "电影&电视剧",
     "分类名称替换词": "list&tv",
@@ -65,10 +66,10 @@
     "地区详情": "地区:&&</a",
     "演员详情": "主演:&&</a></p",
 
-    "简介详情": ".b1f40f7888&&Text",
+    "简介详情": ".b1f40f7888&&Text",// "简介": "b1f40f7888\"&&</p>",
     "线路列表数组规则": "",
     "线路标题": "",
-    "播放列表数组规则": "body&&.bf8243b9",
+    "播放列表数组规则": "copylink&&</a>",
     "选集列表数组规则": "body&&.bf8243b9",
     "选集标题链接是否Jsoup写法": "是",
     "选集标题": "a&&Text",
@@ -82,3 +83,8 @@
     "手动嗅探视频链接过滤词": ".html#=http"
 }
 
+ "播放数组": "copylink&&</a>",
+                "播放链接": "alt=\"&&\"",
+                "简介": "b1f40f7888\"&&</p>",
+                "分类url": "https://xunlei8.cc/{cateId}-{class}-{year}-{area}-hot-{catePg}-30.html",
+                "分类": "电视剧$tv#电影$list"

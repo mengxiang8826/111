@@ -22,7 +22,7 @@ var rule={
 	quickSearch:0,//是否启用快速搜索,
 	filterable:0,//是否启用分类筛选,
 	// class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
-	class_parse:'.navbar ul&&li;a&&title;a&&href;.*/(.*?).html',
+	class_parse:'.navbar-items&&li;a&&title;a&&href;/(\\d+).html',
 	play_parse:true,
 	lazy:'',
 	limit:6,

@@ -442,7 +442,7 @@ CNTG记录,http://111.40.196.27:443/0000000000001000/7114647837765104058/index.m
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 山西卫视,https://epg.pw/stream/9583a6cddbaf5f732564978bc22cecb76770106e18e003ad3ac6a9c20d3148f9.m3u8
 山西卫视,https://epg.pw/stream/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
-山西衛視1,rtmp://live-stream.lsxrmtzx.com/live/video
+山西卫视,rtmp://live-stream.lsxrmtzx.com/live/video
 
 山西卫视,https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8
 山西卫视,https://epg.pw/stream/c0599e5c193c0e6f5059b9f550950be55d78cc6cbc107b9414a8d462b4f3d25c.m3u8
@@ -452,7 +452,7 @@ CNTG记录,http://111.40.196.27:443/0000000000001000/7114647837765104058/index.m
 山西卫视,https://epg.pw/stream/7134b52d41c5da0ebefe4234424eb6e81cb40844c3c32dec3bb8ec46c333c129.m3u8
 山西卫视,https://epg.pw/stream/b823fe76cf4694e288f9ab5e1344df59f2e54acd9de51892483d5c2caf320282.m3u8
 
-山西衛視2,rtmp://live-stream.lsxrmtzx.com/live/video
+山西卫视,rtmp://live-stream.lsxrmtzx.com/live/video
 山西卫视,https://epg.pw/stream/0e4614e05bb03a10e6097d040fef64f0c9ab6af8f8dd85beb17c7642f4661e81.m3u8
 山西卫视,https://epg.pw/stream/956df14726aa90a63a01bc11e8da35c87edf73e42bf5b75979a12d49aada2d08.m3u8
 山西卫视,https://epg.pw/stream/2f71402c1668ecec87011a346d85b3ef21c971de5e66db75b51cc969ec88c40c.m3u8

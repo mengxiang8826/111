@@ -5,6 +5,7 @@ var rule={
 	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".go:eq(0)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vod-show/fyfilter.html',
+	//https://www.freeok.vip/vod-show/1-----------.html
     filterable:1,//是否启用分类筛选,
 	headers:{
 		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
@@ -21,9 +22,9 @@ var rule={
 	searchable:2,//是否启用全局搜索,
 	quickSearch:0,//是否启用快速搜索,
 	filterable:0,//是否启用分类筛选,
-	class_name: '电影&电视剧&动漫&综艺&少儿',
-	class_url: '1&2&3&4',
-	//class_parse:'.navbar-items&&li;a&&Text;a&&href;.*/(.*?).html',
+	//class_name: '电影&电视剧&动漫&综艺&少儿',
+	//class_url: '1&2&3&4',
+	class_parse:'.navbar-items&&li;a&&Text;a&&href;.*/(.*?).html',
 	//class_parse:'.navbar-items li;a&&title;a&&href;/(\\d+).html',
 	play_parse:true,
 	lazy:'',

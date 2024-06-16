@@ -4,7 +4,7 @@ var rule={
     title:'往往影视',
     模板:'mxpro',
     host:'https://www.wwys.pro/',
-    homeUrl:'/label/new.html',
+    homeUrl:'/',
     // url:'/oftensshow/fyclass--------fypage---.html',
     url:'/show/fyfilter.html',
     filterable:1,//是否启用分类筛选,

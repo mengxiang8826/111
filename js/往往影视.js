@@ -3,7 +3,7 @@ muban.mxpro.二级.tabs = '#y-playList&&.tab-item';
 var rule={
     title:'往往影视',
     模板:'mxpro',
-    host:'https://www.oftens.top',
+    host:'https://www.wwys.pro/',
     homeUrl:'/label/new.html',
     // url:'/oftensshow/fyclass--------fypage---.html',
     url:'/oftensshow/fyfilter.html',

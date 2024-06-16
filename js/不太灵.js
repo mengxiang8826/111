@@ -1,10 +1,10 @@
 var rule = {
 	title:'不太灵',
 	host:'https://www.2bt0.com/',
-        homeUrl: '/',
-	url: '/movie/fyclass.html?sb=&sc=&sct=&scn=&sd=&sdt=&sdn=0&se=&set=&sen=0&sf=&sft=&sfn=&sg=1&sh=&sht=&shn=&page=fypage',
+        homeUrl: '',
+	url: '/fyclassfyfilter',
 	//https://www.2bt0.com/movie/fyclass.html?sb=&sc=&sct=&scn=&sd=&sdt=&sdn=0&se=&set=&sen=0&sf=&sft=&sfn=&sg=1&sh=&sht=&shn=&page=2
-	//filter_url:'{{fl.class}}',
+	filter_url:'{{fl.cateId}}.html?sb=&sc={{fl.class}}&sct=&scn=1&sd={{fl.area}}&sdt=&sdn=1&se={{fl.year}}&set=&sen=2&sf=&sft=&sfn=&sg={{fl.by}}&sh=&sht=&shn=&page=fypage',
 	filter:{
 	},
 	searchUrl: '/search.php?sb=**',

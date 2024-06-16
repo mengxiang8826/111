@@ -7,7 +7,7 @@ var rule={
     homeUrl:'/',
     // url:'/oftensshow/fyclass--------fypage---.html',
     url:'/show/fyfilter.html',
-    filterable:1,//是否启用分类筛选,
+    filterable:0,//是否启用分类筛选,
     //https://www.wwys.pro/show/1--hits-%E5%96%9C%E5%89%A7-%E5%9B%BD%E8%AF%AD-------2024.html
     filter_url:'{{fl.cateId}}--{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}',//'{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
    //{{fl.cateId}}--{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}----fypage---{{fl.year}}

@@ -6,7 +6,7 @@ var rule={
     host:'https://www.wwys.pro/',
     homeUrl:'/label/new.html',
     // url:'/oftensshow/fyclass--------fypage---.html',
-    url:'/show/fyclassfyfilter.html',
+    url:'/show/fyclass.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
    //https://www.wwys.pro/show/1--hits-%E5%96%9C%E5%89%A7-%E5%9B%BD%E8%AF%AD-------2024.html

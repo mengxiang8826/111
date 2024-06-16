@@ -29,7 +29,7 @@ var rule={
     headers: {
         'User-Agent': 'PC_UA',
     },
-    class_parse: '.navbar-items&&li;a&&title;a&&href;a&&href;.*/(.*?).html',
+    class_parse: '.navbar-items&&li;a&&title;a&&href;.*/(.*?).html',
     sniffer:1,
     // 辅助嗅探规则
     isVideo:"http((?!http).){26,}\\.(m3u8|mp4|flv|avi|mkv|wmv|mpg|mpeg|mov|ts|3gp|rm|rmvb|asf|m4a|mp3|wma)",

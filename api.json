@@ -183,6 +183,13 @@
  "api": "./drpy2.min.js",
  "ext": "./js/6V新版_磁_.js"
  },
+  { 
+ "key": "drpy_js_不太灵",
+ "name": "影视 | 往往影视",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/不太灵.js"
+ },
  {
  "key": "drpy_js_高清MP4",
  "name": "磁力 | 高清MP4",

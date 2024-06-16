@@ -48,7 +48,7 @@ var rule={
             input
         }
     `,
-
+    一级: '.main&&module-main;a&&title;a&&module-item-pic&&data-original;a&&module-item-note&&Text;a&&href',
     // searchUrl:'/oftenssearch/**----------fypage---.html',
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
 	detailUrl:'/oftensdetail/fyid.html', //非必填,二级详情拼接链接

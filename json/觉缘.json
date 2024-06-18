@@ -4,7 +4,7 @@
         "图片": "data-src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "start-0\">&&</span>flex",//"class=\"time\">&&</label",
-        "分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by},"
+        "分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}[https://www.yjys01.com/s/all?type={cateId}],"
         //"https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
         //https://www.yjys01.com/s/{class}/{catePg}?type={catePg}&area={area}&year={year}&order={by}
         "分类": "电影$0#电视剧$1",

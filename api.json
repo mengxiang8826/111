@@ -200,6 +200,16 @@
  "api": "csp_XBPQ",
  "ext": "./json/好恐怖.json"
  },
+   { 
+ "key": "小白",
+ "name": "磁力 | 小白",
+ "type": 3,
+ "searchable": 1,
+ "filterable": 1,
+ "quickSearch": 1,
+ "api": "csp_XBPQ",
+ "ext": "./json/小白.json"
+ },
  {
  "key": "drpy_js_高清MP4",
  "name": "磁力 | 高清MP4",

@@ -7,7 +7,7 @@
         "分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}[https://www.yjys01.com/s/all?type={cateId}],"
         //"https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
         //https://www.yjys01.com/s/{class}/{catePg}?type={catePg}&area={area}&year={year}&order={by}
-        "分类": "电影$0#电视剧$1",
+        "分类": "电影$newmovie#电视剧$newTV#4K专区$new4K#动画片$newcartoon",
         "起始页": 2,
         "倒序": 1,
         "播放数组": "磁力链接</td>&&</tbody>",

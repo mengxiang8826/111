@@ -191,11 +191,14 @@
  "ext": "./js/6V新版_磁_.js"
  },
   { 
- "key": "drpy_js_不太灵",
- "name": "影视 | 不太灵",
+ "key": "drpy_js_好恐怖",
+ "name": "磁力 | 好恐怖",
  "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/不太灵.js"
+ "searchable": 1,
+ "filterable": 1,
+ "quickSearch": 1,
+ "api": "csp_XBPQ",
+ "ext": "./json/好恐怖.json"
  },
  {
  "key": "drpy_js_高清MP4",

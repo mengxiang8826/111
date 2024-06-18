@@ -1,7 +1,7 @@
 {
         "主页url": "https://www.yjys01.com",
         "编码": "utf-8",
-        "图片": "data-src=\"&&\"",
+        "图片": "src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "start-0\">&&</span>flex",//"class=\"time\">&&</label",
         "分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}",

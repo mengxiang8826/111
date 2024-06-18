@@ -25,7 +25,7 @@ var rule={
 	//class_name: '电影&电视剧&动漫&综艺&少儿',
 	//class_url: '1&2&3&4',
 	//class_parse:'.navbar-items&&li;a&&Text;a&&href;.*/(.*?).html',
-	class_parse:'.navbar-items li;a&&title;a&&href;/(\\d+).html',
+	class_parse:'.navbar-items li;a&&title;a&&href;.*/(.*?).html',
 	play_parse:true,
 	lazy:'',
 	limit:6,

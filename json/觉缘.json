@@ -1,15 +1,29 @@
 {
-        "主页url": "https://www.yjys01.com",
-        "编码": "utf-8",
-        "图片": "src=\"&&\"",
-        "标题": "h3&&<h3",
-        "副标题": "start-0\">&&</span>flex",//"class=\"time\">&&</label",
-        "分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}[https://www.yjys01.com/s/all?type={cateId}]",
-        //"https://www.xbw20.com/search.asp?page={catePg}&searchword={area}&searchtype=2[https://www.xbw20.com/vod/{cateId}.html]",
-        //https://www.yjys01.com/s/{class}/{catePg}?type={catePg}&area={area}&year={year}&order={by}
-        "分类": "电影$0#电视剧$1",
-        "起始页": 2,
-        "倒序": 1,
-        "播放数组": "磁力链接</td>&&</tbody>",
-        "播放列表": "<td>&&</td>[包含:magnet]"
-      }
+"主页url": "ttps://www.yjys01.com",
+"请求头": "手机",
+"简介": "【如有广告请勿相信以免造成财产损失】+class=\"sketch content\">&&</span>",
+"数组": "class=\"row row-cards\">&&</div>",
+"标题": "title=\"&&\"",
+"副标题": "start-0\">&&</span>",
+"图片": "data-src=\"&&\"",
+"链接": "href=\"&&\"",
+"搜索url": "/vod/search/wd/{wd}.html",//http://www.tvyb03.com/vod/search/wd/孤注一掷2023.html
+"搜索数组": "<div class=\"thumb\">&&</div>",
+"搜索标题": "title=\"&&\"",
+"搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+"搜索图片": "url(&quot;&&/&quot",
+//background-image: url(&quot;http://hktvimg.qcheng.cc/upload/vod/20230806-1/43c048c17dfeb7c43b1b8c1062da3849.jpg&quot;);
+"搜索链接": "href=\"&&\"",
+"搜索模式": "1",
+"是否开启手动嗅探":"1",
+"手动嗅探视频链接关键词": ".ts#.hls#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+"搜索后缀": "",
+"线路数组": "",
+"线路标题": "",
+"播放数组": "磁力链接</td>&&</tbody>",
+"播放标题": "磁力链接",
+"播放列表": "<td>&&</td>[包含:magnet]",
+"分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}[https://www.yjys01.com/s/all?type={cateId}];;m",
+"分类": "电影$0#电视剧$1"
+}
+  

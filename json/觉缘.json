@@ -1,5 +1,5 @@
 {
-"主页url": "ttps://www.yjys01.com",
+"主页url": "https://www.yjys01.com",
 "请求头": "手机",
 "简介": "【如有广告请勿相信以免造成财产损失】+class=\"sketch content\">&&</span>",
 "数组": "card-link\">&&</div></div></div>",
@@ -23,7 +23,7 @@
 "播放数组": "磁力链接</td>&&</tbody>",
 "播放标题": "磁力链接",
 "播放列表": "<td>&&</td>[包含:magnet]",
-"分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}[https://www.yjys01.com/s/all?type={cateId}];;m",
+"分类url": "https://www.yjys01.com/s/{class}/{catePg}?type={cateId}&area={area}&year={year}&order={by}",
 "分类": "电影$0#电视剧$1"
 }
   

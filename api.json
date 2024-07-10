@@ -142,6 +142,13 @@
  "quickSearch": 1,
  "ext": "./json/玩我4K.json"
  },
+  { 
+ "key": "drpy_js_团长资源",
+ "name": "网盘 | 团长资源",
+ "type": 3,
+ "api": "./drpy2.min.js",
+ "ext": "./js/tzfile.js"
+ },
  { 
  "key": "drpy_js_往往影视",
  "name": "影视 | 往往影视",

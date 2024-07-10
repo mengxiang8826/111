@@ -36,12 +36,12 @@ let d = [];
 log("tzfiles input>>>>>>>>>>>>>>"+input);
 let html = request(input);
 //log("tzfiles 1level html>>>>>>>>>>>>>>"+html);
-let list = pdfa(html, '#primary-home ul li:has(img)');
+let list = pdfa(html, '#post-list ul li:has(img)');
 list.forEach(function(it) {
 	d.push({
-		title: pdfh(it, 'img&&alt'),
+		title: pdfh(it, '.picture img&&alt'),
 		desc: pdfh(it, 'div.post-info span&&Text'),
-		pic_url: pd(it, 'picture.picture source&&data-srcset'),
+		pic_url: pd(it, '.picture source&&data-srcset'),
 		url: pd(it, 'a&&href', HOST)
 	});
 })

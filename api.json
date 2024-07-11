@@ -81,7 +81,7 @@
  "api": "csp_XYQHikerAL",
  "searchable": 1,
  "filterable": 1,
- "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
+ "jar":"./custom_spider.jar",
  "quickSearch": 1,
  "ext": "./json/4KHDR.json"
   },
@@ -93,7 +93,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4b9e4c28c8c5206945f0a710253a8db9b2bfb0d1/fan.jar"
+  "jar":"./fan.jar"
     },
  {
             "key": "迅雷8",
@@ -114,7 +114,7 @@
  "name": "网盘 | 玩偶4k",
  "type": 3,
  "api": "csp_XYQHikerAL",
- "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
+ "jar":"./custom_spider.jar",
  "searchable": 1,
  "filterable": 1,
  "quickSearch": 1,
@@ -125,7 +125,7 @@
  "name": "网盘 | 多多4K",
  "type": 3,
  "api": "csp_XYQHikerAL",
- "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
+ "jar":"./custom_spider.jar",
  "searchable": 1,
  "filterable": 1,
  "quickSearch": 1,
@@ -136,7 +136,7 @@
  "name": "网盘 | 玩我4k",
  "type": 3,
  "api": "csp_XYQHikerAL",
- "jar":"https://raw.gitcode.com/zhuge/tv/blobs/4301540c9585efe5b013d2ea514280ab401c4527/custom_spider.jar",
+ "jar":"./custom_spider.jar",
  "searchable": 1,
  "filterable": 1,
  "quickSearch": 1,
@@ -280,7 +280,7 @@
   "key": "Bdys_spider",
   "name": "磁力 | 缘觉影视",
   "api": "csp_Bdys01",
-  "jar": "http://43.134.172.189:666/f/KkPH8/pg.jar",
+  "jar": "./pg.jar",
   "type": 3,
   "filterable": 1,
   "searchable": 0,

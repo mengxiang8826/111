@@ -32,12 +32,12 @@ var rule = {
 pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;
 let d = [];
 let html = request(input);
-let list = pdfa(html, 'ul.tabs-content li.active div');
+let list = pdfa(html, '.flex flex-wrap w-full div');
 list.forEach(it => {
 	d.push({
-		title: pdfh(it, 'div.left h5&&Text'),
+		title: pdfh(it, '.line-clamp-1 #max-width&&Text'),
 		desc: pdfh(it, 'div.po_rel&&div.inblock&&Text'),
-		pic_url: /!'/.test(pd(it, '.po_abs&&style'))?pd(it, '.po_abs&&style'):pd(it, '.po_abs&&style').replaceAll("'",""),
+		pic_url: pd(it,'.arco-image img&&src'),
 		url: pd(it, 'a&&href')
 	});
 });

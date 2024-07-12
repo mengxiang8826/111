@@ -1,4 +1,4 @@
-// 永久网址：https://libvio.app
+// 永久网址：
 muban.首图2.二级.title = 'h1&&Text;.data:eq(0)&&Text'
 muban.首图2.二级.desc = '.data.hidden-xs&&Text;;;.data:eq(1)&&Text;.data:eq(4)&&Text'
 muban.首图2.二级.content = '.detail-content&&Text'
@@ -6,8 +6,8 @@ var rule = {
 	title:'LIBVIO',
 	模板:'首图2',
 	// host:'https://tv.libvio.cc',
-	host:'https://libvio.link/',
-	hostJs:'',
+	host:'https://iioo.me/',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul li a:eq(1)&&href");print(src);HOST=src',
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
 	// url:'/show_fyclassfyfilter.html',

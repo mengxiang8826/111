@@ -26,7 +26,7 @@ var rule = {
 	},
 	class_parse:'.stui-header__menu li:gt(0):lt(7);a&&Text;a&&href;/(\\d+).html',
 	// class_parse:'.stui-header__menu li;a&&Text;a&&href;/.*_(\\d+).html',
-	tab_exclude: '百度||即将上映',
+	tab_exclude: '即将上映',
 	pagecount:{"27":1},
 	二级: {
 		"title": ".stui-content__detail .title&&Text;.stui-content__detail p:eq(-2)&&Text",

@@ -30,17 +30,17 @@
 
     "搜索二次截取": "type=\"application/json\">&&</script>",
     
-    "搜索url": "https://www.freeokk.me/search/%7Bwd%7D-------------.html",
+    "搜索url": "https://www.freeokk.me/search/{wd}-------------.html",
     //https://www.freeokk.me/search/%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B-------------.html
-    "搜索数组": "<b>&&</b>[包含:Freeok]",
+    "搜索数组": "module-card-items\">&&</div",
                 
-    "搜索副标题": "<a>&&</a>",
+    "搜索副标题": "module-item-note\"&&<div",
     
-    "搜索标题": "class='movie_name'>&&</a>",
+    "搜索标题": "talt=\"&&\"",
                 
     "搜索链接": "href=\"&&\"",
    
-    "搜索图片":"http://img.vopox.net/wp-content/uploads/2023/03/y2fga2jzwq2.jpg",
+    "搜索图片":"data-original=\"&&\"",
     
     "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
     

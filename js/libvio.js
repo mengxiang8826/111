@@ -9,7 +9,7 @@ var rule = {
 	host:'https://libvio.app',
 	hostJs:'print(HOST);
 const cheerio = require('cheerio');  
-const html = "HOST";  
+const html = HOST;  
 const $ = cheerio.load(html);  
 const src = $('ul li:eq(1) a:first').attr('href'); // 选择第二个<li>中的第一个<a>的href属性  
 console.log(src);HOST=src',

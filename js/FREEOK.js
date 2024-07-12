@@ -1,7 +1,7 @@
 var rule={
 	title:'FREEOK',
 	// host:'https://www.freeok.vip',
-	host:'https://www.freeok.vip/',
+	host:'https://www.freeokk.me/',
 	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".go:eq(0)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vod-show/fyfilter.html',

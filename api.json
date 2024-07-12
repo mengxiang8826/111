@@ -218,16 +218,7 @@
  "api": "csp_XBPQ",
  "ext": "./json/小白.json"
  },
-    { 
- "key": "觉缘",
- "name": "磁力 | 觉缘",
- "type": 3,
- "searchable": 1,
- "filterable": 1,
- "quickSearch": 1,
- "api": "csp_XBPQ",
- "ext": "./json/觉缘.json"
- },
+
  {
  "key": "drpy_js_高清MP4",
  "name": "磁力 | 高清MP4",

@@ -156,13 +156,6 @@
  "api": "./drpy2.min.js",
  "ext": "./js/往往影视.js"
  },
-   {
- "key": "drpy_js_FREE",
- "name": "无广 | FREEOK[js]",
- "type": 3,
- "api": "./drpy2.min.js",
- "ext": "./js/FREEOK.js"
- },
  { 
  "key": "drpy_js_libvio",
  "name": "影视 | libvio",

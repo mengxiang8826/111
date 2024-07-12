@@ -7,7 +7,14 @@ var rule = {
 	模板:'首图2',
 	// host:'https://tv.libvio.cc',
 	host:'https://libvio.app',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul li:eq(1)&&a eq(0)&&href");print(src);HOST=src',
+	hostJs:'print(HOST);const cheerio = require('cheerio');  
+const html = HOST;  
+  
+const $ = cheerio.load(html);  
+const src = $('ul li:eq(1) a:first').attr('href'); // 选择第二个<li>中的第一个<a>的href属性  
+  
+console.log(src);
+HOST=src',
 	// url:'/type/fyclass-fypage.html',
 	url:'/show/fyclassfyfilter.html',
 	// url:'/show_fyclassfyfilter.html',

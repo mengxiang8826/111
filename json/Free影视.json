@@ -30,8 +30,8 @@
 
     "搜索二次截取": "type=\"application/json\">&&</script>",
     
-    "搜索url": "https://www.freeok.vip/so1so/%7Bwd%7D-------------.html",
-                
+    "搜索url": "https://www.freeokk.me/search/%7Bwd%7D-------------.html",
+    //https://www.freeokk.me/search/%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B-------------.html
     "搜索数组": "<b>&&</b>[包含:Freeok]",
                 
     "搜索副标题": "<a>&&</a>",
@@ -52,7 +52,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类url":"https://www.freeokk.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     

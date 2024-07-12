@@ -7,8 +7,8 @@ var rule = {
 	模板:'首图2',
 	// host:'https://tv.libvio.cc',
 	host:'https://libvio.app',
-	hostJs:'print(HOST);const cheerio = require('cheerio');  
-const html = HOST;  
+	hostJs:'const cheerio = require('cheerio');  
+const html = "https://libvio.app";  
   
 const $ = cheerio.load(html);  
 const src = $('ul li:eq(1) a:first').attr('href'); // 选择第二个<li>中的第一个<a>的href属性  

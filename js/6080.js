@@ -1,9 +1,9 @@
-// 新视觉影院新发布页： https://www.5280.fun
+// 新视觉影院新发布页： https://kan80.app/
 var rule={
 	title:'新视觉影视',
-	// host:'https://www.6080dy4.com',
-	host:'https://www.5280.fun',
-	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".go:eq(0)&&a&&href");print(src);HOST=src',
+	// host:'https://kan80.app/',
+	host:'https://kan80.app/',
+	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul li:eq(0)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyfilter.html',
     filterable:1,//是否启用分类筛选,

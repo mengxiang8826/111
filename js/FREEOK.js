@@ -4,7 +4,7 @@ var rule={
 	host:'https://www.freeokk.me/',
 	//hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".go:eq(0)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---.html',
-	url:'/vod-show/fyfilter.html',
+	url:'/show/fyfilter.html',
 	//https://www.freeok.vip/vod-show/1-----------.html
     filterable:1,//是否启用分类筛选,
 	headers:{

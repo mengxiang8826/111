@@ -1,7 +1,23 @@
-        {"主页url": "https://m.haokongbu.top/",
+        {
+        "主页url": "https://m.haokongbu.top/",
         "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
         "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
+        "数组": "<ul>&&</ul></div",
+        "标题": "<p>&&<p>",
         "副标题": "class=\"typeset\"&&</i>",
+        "图片": "srcset=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索url": "/vod/search/wd/{wd}.html",//http://www.tvyb03.com/vod/search/wd/孤注一掷2023.html
+        "搜索数组": "<div class=\"thumb\">&&</div>",
+        "搜索标题": "title=\"&&\"",
+        "搜索副标题": "pic-tag pic-tag-top\">&&</span>",
+        "搜索图片": "url(&quot;&&/&quot",
+        //background-image: url(&quot;http://hktvimg.qcheng.cc/upload/vod/20230806-1/43c048c17dfeb7c43b1b8c1062da3849.jpg&quot;);
+        "搜索链接": "href=\"&&\"",
+        "搜索模式": "1",
+        "是否开启手动嗅探":"1",
+        "手动嗅探视频链接关键词": ".ts#.hls#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#auth_key#app-ali-cdn.fqfilm.com",
+       
         "起始页": 2,
         "倒序": 1,
         "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
